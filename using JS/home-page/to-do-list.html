@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>To-Do List</title>
+
+        <link rel="stylesheet" href="to-do-list.css">
+
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Roboto:ital@0;1&display=swap" rel="stylesheet">
+
+    </head>
+    
+    <body>
+        <div id="main-block">
+                
+
+            <h1 id="header">To-Do List</h1>
+            <div id="task-block">
+                <button id="logout-btn" onclick="Logout()"><img id="logout-img" src="icons/logout.jpg"></button>
+
+                <input placeholder="Enter task" id="task-input" style="font-family: 'Montserrat'">
+                <button id="add-btn" onclick="addTask()">Add</button>
+                <button id="delete-all-btn" onclick="deleteAll()">Delete All</button>
+
+                <ul id="task-list"></ul>
+
+            </div>
+
+        </div>
+
+        <script src="to-do-list.js"></script>
+
+    </body>
+</html>

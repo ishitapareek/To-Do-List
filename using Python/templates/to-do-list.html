@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>To-Do List</title>
+
+        <link rel="stylesheet" href="{{ url_for('static', filename='to-do-list.css') }}">
+
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
+
+    </head>
+
+    <body>
+
+        <div id="main-block">
+            <h1 id="header">To-Do List</h1>
+            <div id="task-block">
+                <form method="POST" action="{{ url_for('logout') }}">
+                    <button id="logout-btn">
+                        <img id="logout-img" src="{{ url_for('static', filename='icons/logout.jpg') }}">
+                    </button>
+                </form>
+
+                <form method="POST" action="{{ url_for('todo') }}">
+                    <input name="task" placeholder="Enter task" id="task-input" required>
+
+                    <select name="status" id="status-input" required>
+                        <option value="Not Started">Not Started</option>
+                        <option value="In Progress">In Progress</option>
+                        <option value="In Review">In Review</option>
+                        <option value="Completed">Completed</option>
+                        <option value="Closed">Closed</option>
+                    </select>
+
+                    <input id="completion-input" name="completion_date" type="date"><br>
+
+                    <button id="add-btn" type="submit">Add</button>
+
+                </form>
+
+
+
+                <ul id="task-list">
+                {% for task in tasks %}
+                    <li id="task-item">
+                        <div id="task-box">
+
+                            <div id="task-top-row">
+                                <div id="task-text">{{ task.Task }}</div>
+
+                                <div id="task-buttons">
+                                    <form method="GET" action="{{ url_for('edit', task_id=task.id) }}">
+                                        <button id="edit-btn" title="Edit">
+                                            <img id="edit-img" src="{{ url_for('static', filename='icons/edit.png') }}" alt="Edit">
+                                        </button>
+                                    </form>
+
+
+                                    <form method="POST" action="{{ url_for('delete', task_id=task.id) }}">
+                                        <button id="delete-btn" title="Delete">
+                                            <img id="delete-img" src="{{ url_for('static', filename='icons/trash.png') }}" alt="Delete">
+                                        </button>
+                                    </form>
+                                </div>
+                            </div>
+
+                            <div id="task-status">Status: {{ task.Status }}</div>
+                            <div id="task-date">Completion Date: {{ task.Completion_Date or "—" }}</div>
+                        </div>
+                    </li>
+                {% endfor %}    
+                </ul>
+            </div>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Sign Up</title>
+
+        <link rel="stylesheet" href="{{ url_for('static', filename='sign-up-page.css') }}">
+
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
+        
+    </head>
+    <body>
+        <div id="sign-up-box">
+            <h1 id="main-heading">Sign Up</h1>
+            <h3 id="sub-heading">Create A New Account</h3>
+
+            <form method="POST">
+                {% if error %}
+                    <p style="color: red;">{{ error }}</p>
+                {% endif %}
+
+                <div id="name-box">
+                    <input id="first-name-box" placeholder="First Name">
+                    <input id="last-name-box" placeholder="Last Name">
+                </div>
+
+                <input id="email-box" placeholder="Email">
+                <input id="username-box" name="username" placeholder="Username" required>
+                <input id="password-box" name="password" placeholder="Password" required>
+
+                <button id="sign-up-btn" type="submit">SIGN UP</button>
+            </form>
+        </div>
+    </body>
+</html>

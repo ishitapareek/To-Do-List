@@ -1,0 +1,5943 @@
+@charset "utf-8";
+/* CSS Document */
+@media only screen and (max-device-width:1024px)  {
+	  
+}
+
+
+@media only screen and (max-device-width: 768px)  {
+	
+	
+}
+
+
+@media only screen and (max-device-width: 736px)  {
+	  
+}
+
+@media only screen and (max-device-width: 667px)  {
+	  
+}
+
+
+@media only screen and (max-device-width: 568px)  {
+h3.imp-team {
+    padding: 0 40px;
+    line-height: 1;
+    margin-top: 15px;
+    text-shadow: 0 0px 10px rgb(0 0 0 / 50%);
+}
+.themeImg2022 img {
+    width: 50%;
+    margin: 0 auto;
+}
+.themesTitle h3 {
+    margin: 0 0 0 14px;
+}
+
+	a.carousel-control-prev.bannerSlide {
+    top: 40px;
+}
+a.carousel-control-prev.bannerSlide i {
+    font-size: 30px;
+    padding: 0px 10px;
+}
+a.carousel-control-next.bannerSlide {
+    top: 40px;
+}
+a.carousel-control-next.bannerSlide i {
+    font-size: 30px;
+    padding: 0 10px;
+}
+	.modal-dialog {
+    max-width: 100%;
+}
+	.navbar-brand {
+	width: 60%;
+}
+a.navbar-brand img {
+	    width: 43%;
+    position: relative;
+    top: 0px;
+    left: -10px;
+}
+.banner-bottom-color-div {
+	top: 0;
+}
+[data-toggle="collapse"].res-navbar.collapsed:after {
+    transform: rotate(0deg);
+    display: none;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    content: "\f067";
+}
+[data-toggle="collapse"].res-navbar:after {
+    display: none;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    content: "\f068";
+    transition: all linear 0.25s;
+    float: right;
+    background: #5d73d1;
+    color: #fff;
+    padding: 11px 13px;
+    border-radius: 50%;
+}
+.navbar-dark .navbar-toggler {
+    color: rgba(255, 255, 255, 0.5);
+    border-color: #6aabdd;
+}
+.navbar-toggler {
+    padding: 2px 8px;
+    font-size: 1.25rem;
+    line-height: 1;
+    background-color: #002449;
+    border: 1px solid #fff;
+    border-radius: 0.25rem;
+}
+.banner-bottom-count {
+	display: none;
+}
+.carousel-indicators {
+	bottom: -5%;
+}
+.carousel-indicators li {
+	width: 6px;
+    height: 6px;
+}
+.banner-bottom-top h3 {
+    color: #f75700;
+    font-weight: 700;
+    padding: 0 5%;
+    line-height: 28px;
+    font-size: 26px;
+    margin: 0 0 30px 0;
+    font-family: montserratbold;
+}
+.count-div h4 {
+	font-size: 18px;
+}
+.count-div p {
+	font-size: 14px;
+	line-height: 18px;
+}
+.count-div2 {
+	border-right: none;
+}
+.count-div2 h4 {
+	font-size: 18px;
+}
+.count-div2 p {
+	font-size: 14px;
+}
+.count-div {
+	padding: 10px 20px 10px 0;
+	border: none;
+}
+.count-div3 {
+    padding: 10px 17px 10px 0;
+	border: none;
+}
+.count-div3 h4 {
+	font-size: 18px;
+}
+.count-div3 p {
+	font-size: 14px;
+}
+.count-div4 h4 {
+	font-size: 18px;
+}
+.count-div4 p {
+	font-size: 14px;
+}
+.call-us-now {
+    position: fixed;
+    right: -88px;
+    bottom: 355px;
+    padding: 0;
+}
+.call-us-now img {
+    width: 50%;
+    padding: 0;
+}
+.smt-ind-hack h3 {
+	font-size: 22px;
+    line-height: 24px;
+}
+.smt-ind-hack span {
+	font-size: 13px;
+}
+.smt-ind-hack {
+    text-align: center;
+    margin: 20px 0 10px 0;
+}
+.sih-five {
+	height: 240px;
+    margin-bottom: 30px;
+}
+.sih-five h3 {
+    font-size: 18px;
+}
+.sih-five p {
+	font-size: 14px;
+}
+.tab-box h2 {
+    color: #fff;
+    font-weight: 700;
+    margin: 10px 0 0 0;
+    font-family: montserratbold;
+    font-size: 26px;
+    width: 100%;
+    line-height: 27px;
+}
+.tab-box span {
+	font-size: 14px;
+}
+.back-bg {
+	display: none;
+}
+.slick-initialized .slick-slide {
+    display: block;
+    margin-right: 0px;
+    background: #fff;
+    padding: 40px 0px;
+    text-align: center;
+    height: 350px;
+    margin-left: 0px;
+}
+.sih-theme-heading h2 {
+    font-size: 26px;
+}
+.sih-theme-heading span {
+    font-size: 14px;
+}
+.slick-slide h3 {
+    font-size: 18px;
+}
+.slick-slide h3 {
+    font-size: 18px;
+}
+.sih-theme-heading p {
+	font-size: 14px;
+}
+.slick-slide p {
+	font-size: 15px;
+	padding: 0px 10px;
+}
+.slick-slide img {
+    width: 100%;
+    padding: 0 0 30px 0;
+}
+.nav-top {
+    height: 40px;
+}
+.newAnnBg {
+    width: 207px;
+    height: 145px;
+    border-radius: 5px;
+}
+.newAnnBg h3 {
+    font-size: 14px;
+    padding: 10px 0 0 10px;
+}
+.newAnnBg p {
+    font-size: 14px;
+    padding: 34px 0 0 10px;
+    line-height: 20px;
+}
+.newAnnBg a {
+    font-size: 12px;
+    bottom: 12px;
+    left: 10px;
+    padding: 4px 10px;
+    border-radius: 2px;
+}
+.nav-top .hamburger {
+    font-size: 30px;
+}
+#mySidenav a {
+    right: -281px;
+}
+
+/******************** New ********************/
+
+#register {
+    top: 200px;
+}
+#dateRegister {
+    top: 260px;
+}
+#registerCisco {
+    top: 200px;
+}
+#mySidenavCisco a {
+    left: -200px;
+}
+.whatIsSIH-head h3 {
+    font-size: 26px;
+}
+.landingPageVideo {
+    top: 0px;
+}
+.part-heading p {
+    font-size: 26px;
+    line-height: 32px;
+}
+.part-heading h2 {
+    font-size: 26px;
+}
+.footerHeadingLandingPage h2 {
+	padding: 0px;
+}
+.footer-heading h2 {
+	font-size: 26px;
+	margin: 0 0 20px 0;
+	padding: 0px;
+}
+.footer-heading a {
+	padding: 12px 45px;
+}
+ul.follow-box-copyright li {
+	margin: 0 20px 0 0;
+}
+.row.paddLandingPage {
+    padding: 20px 0px 20px 0px;
+}
+.follow-box.flo-box {
+    float: none;
+    margin: 20px 0 10px 0;
+    position: relative;
+    top: -14px;
+}
+li.app-down {
+    margin: 10px 0 0 0;
+}
+.follow-box p {
+    font-size: 14px;
+    position: relative;
+    bottom: -180px;
+	margin: 0;
+}
+section.organizing-committee-abt {
+    background-color: #002449;
+    padding: 30px 0 0;
+}
+
+
+/* SIH2020 */
+
+h3.about-sih {
+    padding: 0 23px;
+    line-height: 26px;
+    text-shadow: 0 0px 10px rgba(0, 0, 0, 0.5);
+}
+.carousel-caption h3 {
+    font-size: 25px;
+}
+.carousel-caption {
+    position: absolute;
+    right: 10%;
+    top: 16%;
+    bottom: 20px;
+    left: 10%;
+    z-index: 10;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #fff;
+    text-align: center;
+}
+.carousel-caption h5 {
+    font-size: 13px;
+}
+.abt-stu {
+    border-right: none;
+}
+.banner-bottom-color-div-abt {
+    padding: 50px 20px;
+}
+.video-box iframe {
+    width: 100% !important;
+    height: 150px;
+}
+.video-box p {
+    margin: 10px 0 5px 0;
+}
+.process-flow {
+    padding: 80px 10px;
+}
+.tab-card-header > .nav-tabs > li > a {
+    padding: 0;
+    font-size: 18px;
+}
+.org-sih-hard-2018 {
+    margin-bottom: 10px;
+}
+.organizing-head {
+    padding: 50px 0px 30px 0px;
+}
+li.mhrdLandingPadd {
+    padding-right: 0;
+}
+ul.logo-first-box li img {
+    float: none;
+    width: 48%;
+    display: inline;
+    height: auto;
+    padding: 0 0 10px 0;
+}
+.organizing-head2 {
+    padding: 0px 0px 30px;
+}
+.partners-box {
+    padding: 0;
+    margin: 0 0 30px 0;
+	border-right: none;
+}
+.partners-box2 {
+    border-right: none;
+    padding: 0;
+    /* border-bottom: 1px solid #d0d0d0; */
+    margin: 0 0 30px 0;
+}
+.organizing-head3 {
+    padding: 0px 0px 50px 0px;
+}
+footer {
+    padding: 20px 0 10px 0;
+}
+.banner-bottom-count-abt {
+    display: none;
+}
+
+/* organisingCommittee */
+
+h3.exe-comittee {
+    padding: 0px 20px 0;
+    line-height: 28px;
+}
+section.exe-committee-box {
+    padding: 30px 0;
+}
+.exe-comm-heading h3 {
+    font-size: 26px;
+}
+.exe-comm-heading {
+    margin: 0 0 30px 0;
+}
+.card.hovercard {
+    height: auto;
+}
+exe-com-bg {
+    padding: 0px 0 30px 0;
+}
+.card.hovercard .avatar img {
+    width: 50%;
+}
+.title span {
+    width: 50px;
+}
+.cards-details-content {
+    padding: 20px 30px 40px 35px;
+}
+.cards-details {
+    padding: 0 0 0 35px;
+}
+.title h3 {
+    left: -30px;
+}
+h3.mohit-gam {
+    position: relative;
+    left: -10px;
+}
+.exe-com-bg {
+    padding: 0;
+}
+
+/* sih2020PS */
+
+h3.prob-statement {
+    padding: 0;
+    line-height: 30px;
+    margin-top: 0px;
+	margin-bottom: 0;
+}
+p.contact-us-para {
+    margin: 0;
+	font-size: 15px;
+}
+.statement-box {
+    padding: 20px 20px;
+}
+.hard {
+    width: 46%;
+    display: block;
+    margin: 30px 0 0 0;
+}
+.soft {
+    display: block;
+    position: absolute;
+    top: -69px;
+    right: 0;
+}
+.soft h3 {
+    font-size: 60px !important;
+}
+.hard h3 {
+    font-size: 60px !important;
+}
+.statement-box h3 {
+    font-size: 30px;
+    margin: 0;
+    text-align: center;
+}
+.statement-box p {
+    margin: 0 0 0px 0;
+    font-size: 17px;
+}
+.row.catBox1 {
+    padding: 10px 0 20px 0;
+    width: 100%;
+}
+.radioButPS {
+    display: inline-block;
+    width: 220px;
+}
+.dataTables_wrapper {
+    width: 100%;
+    overflow-y: scroll;
+}
+h3.sih-2017-heading {
+    padding: 0;
+    line-height: 26px;
+}
+section.impact-box .container.px-5.py-5 {
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+	padding-bottom: 0px !important;
+}
+.icon-box img {
+    display: none;
+}
+.icon-box-smv img {
+    display: none;
+}
+.reach-box {
+    width: 127px;
+}
+.reach-box-stu-reached {
+    margin: 0 -82px 0 0;
+    width: 100%;
+}
+.reach-box-nationwide {
+    margin: 0 -35px 0 0;
+    width: 100%;
+	border-right: none;
+}
+.icon-box-stu-reached img {
+    display: none;
+}
+.icon-box-nationwide img {
+    display: none;
+}
+.icon-box-training img {
+    display: none;
+}
+.nat-wid {
+    position: relative;
+    left: 0;
+}
+.nat-wid-line {
+    position: relative;
+    left: 0;
+}
+.nat-wid-text {
+    position: relative;
+    left: 0;
+}
+.reach-box.reach-boxRes {
+    border-right: none;
+	width: 126px;
+}
+.text-big h3 {
+    font-size: 30px;
+}
+section.impact-box {
+    padding: 50px 0 0;
+	overflow: hidden;
+}
+.brd-right-bottom {
+    border-right: none;
+    height: 120px;
+}
+.nodal-center {
+    padding: 0;
+    width: 100%;
+    display: block;
+}
+.nat-wid-nodel h3 {
+    font-size: 38px;
+}
+.nat-wid-icon img {
+    position: absolute;
+    top: -90px;
+    right: 30px;
+}
+.idea-icon img {
+    position: absolute;
+    top: -100px;
+    right: 30px;
+}
+.ext-pad22017 {
+    padding: 0 0 0 20px !important
+}
+.ext-pad {
+    padding: 0;
+}
+.ext-pad2 {
+    padding: 0;
+}
+.nodal-center2 {
+    border-bottom: none;
+    padding: 0 0 20px 0px;
+}
+.evelau img {
+    position: absolute;
+    top: -70px;
+    right: 20px;
+}
+.stu-sih-ico img {
+    position: absolute;
+    top: -61px;
+    right: 30px;
+}
+.brd-right-bottom-sec {
+    border-bottom: 2px solid #ffffff45;
+    height: 120px;
+	border-right: none;
+	margin-bottom: 10px;
+}
+.response-gap {
+    margin: 10px 0 0 0;
+}
+.winner-box h3 {
+    font-size: 24px;
+}
+section.winners {
+    padding: 50px 0 0;
+}
+section.winners {
+    background-color: #002449;
+    padding: 50px 0 0;
+}
+.gallery-box-slide1 img {
+    width: 30%;
+    padding: 0 0 30px 0;
+}
+.sliderIndex img{
+    width: 30%;
+    padding: 0 0 30px 0;
+}
+section.sih-gallery {
+    background-color: #002449;
+    padding: 50px 0 0px 0;
+}
+.slick-initialized .gallery-box-slide1{
+    display: block;
+    margin-right: 0px;
+    background: #fff;
+    padding: 40px 0px;
+    text-align: center;
+    height: 350px;
+    margin-left: 0px;
+}
+.reach-box-training {
+    padding: 0;
+    margin: 0;
+}
+
+/* sih2018Software */
+
+h3.sih-201888-heading {
+    padding: 0;
+    line-height: 26px;
+}
+.carousel-caption p {
+    font-size: 13px;
+    margin: 10px 0 30px 0;
+}
+p.sih-2018-banner-para {
+    letter-spacing: 2px;
+}
+.icon-box-sih-2018 img {
+    display: none;
+}
+.icon-box-stu-reached-sih-2018 img {
+    display: none;
+}
+.evelau-sih-2018 img {
+    position: absolute;
+    top: -87px;
+    right: 10px;
+}
+.stu-sih-ico-sih-2018 img {
+    position: absolute;
+    top: -70px;
+    right: 30px;
+}
+.stu-sih-ico-sih-20188 img {
+    position: absolute;
+    top: -60px;
+    right: 30px;
+}
+.brd-right-bottom-sih {
+    border-right: none;
+    height: auto;
+}
+.nodal-center-sih {
+    border-bottom: 2px solid #d6d6d3;
+    padding: 0px;
+	margin: 0 0 10px 0;
+}
+.nat-wid-icon-sih-soft img {
+    position: absolute;
+    top: -90px;
+    right: 30px;
+}
+.idea-icon-sih img {
+    position: absolute;
+    top: -130px;
+    right: 25px;
+}
+.idea-icon2018Soft img {
+    position: absolute;
+    top: -100px;
+    right: 30px;
+}
+.response-gap2018Soft {
+    margin: 20px 0 0 0;
+}
+.brd-right-bottom-sec-sih-soft {
+    border-right: none;
+    height: auto;
+    padding: 0;
+}
+.nodal-center22018Soft {
+    border-bottom: 2px solid #d6d6d3;
+    padding: 0px;
+	margin: 0 0 10px 0;
+}
+.brd-right-bottom-sec:last-child {
+    border-right: none;
+    height: auto;
+    padding: 0;
+}
+.evelau-sih-2018Soft img {
+    position: absolute;
+    top: -107px;
+    right: 30px;
+}
+.text-content-sih1 p {
+    padding: 0 10px 0px 10px;
+}
+.stu-sih-ico-sih-2018-softt img {
+    position: absolute;
+    top: -110px;
+    right: 30px;
+}
+.finale-content {
+    margin: 0;
+}
+section.content-normal {
+    padding: 70px 0 0;
+}
+.lead-tlk-bg {
+    height: 500px;
+}
+section.leaders-talk .container-fluid {
+    padding: 0 0 30px 0;
+}
+.sliderIndex2018Soft .slick-slide {
+    display: block;
+    margin-right: 0px;
+    background: #fff;
+    padding: 40px 0px;
+    text-align: center;
+    height: 350px;
+    margin-left: 0px;
+}
+section.sih-2017-tabs2018Soft .container-fluid {
+    padding: 0;
+    margin: 0 !important;
+}
+ul.logo-first-box2018Soft li img {
+    float: none;
+    width: 48%;
+    display: inline;
+    height: auto;
+    padding: 0 0 10px 0;
+}
+a.footerHeading2018SoftBut {
+    /* margin: 0 0 30px 0; */
+    display: block;
+}
+
+/* sih2018Hardware */
+
+.reach-box2018Hardware {
+    border-right: none;
+}
+.finale-content2018Hardware {
+    margin: 30px 0 0 0;
+}
+.sih-gallery .slick-dots {
+    top: 0px;
+    padding: 0 20px;
+}
+ul.partners-1 li img {
+    width: 35%;
+    margin: 0 20px;
+}
+.slick-initialized2018Hardware .slick-slide {
+    display: block;
+    margin-right: 30px;
+    background: #fff;
+    padding: 40px 0px;
+    text-align: center;
+    height: 400px;
+    margin-left: 30px;
+}
+section.sih-theme-past-event .container-fluid {
+    margin: 0;
+}
+section.sih-2017-tabs .container-fluid {
+    margin: 0;
+	padding: 0;
+}
+.organizing-head {
+    top: 0;
+}
+.organizing-head2 {
+    top: 0;
+}
+.organizing-head3 {
+    top: 0;
+}
+section.sih-2017-tabs {
+    padding: 10px 0 0px 0;
+    background-color: #fff;
+}
+section.sih-theme-past-event {
+    height: auto;
+}
+.row.footer-line {
+    border-top: none;
+    top: -29px;
+}
+.slidesoft2018Software .slick-slide {
+    height: 400px;
+}
+
+/* sih2019 */
+
+.reach-box-stu-reachedSIH2019 {
+    margin: 0 -82px 0 0;
+    width: 100%;
+    border-right: none;
+}
+.nodal-center2SIH2019 {
+    border-bottom: none;
+    padding: 0 0 20px 20px;
+}
+.brd-right-bottom-sec1:last-child {
+    border-right: none;
+    height: auto;
+    padding: 0;
+    border-bottom: none;
+}
+section.nationwide-response {
+    padding: 50px 0px 20px;
+	overflow: hidden;
+}
+p.finale-contentSIH2019 {
+    margin-top: 30px;
+}
+.winner-box-1 p {
+    text-align: left;
+}
+.slider2019SIH .slick-slide {
+    height: 400px;
+}
+.sih2019CusHeading h2 {
+    font-size: 26px;
+}
+.nodal-center-no-bdr {
+    border-bottom: 2px solid #ffffff45;
+}
+
+/* sih2019Hard */
+.col-md-4.brd-right-bottom-sec.brd-right-bottom-secNoBdr {
+    border-bottom: none;
+}
+p.finale-contentSIH2019Hard {
+    margin: 30px 0 20px 0;
+}
+.slidersih2019Hard .slick-slide {
+    height: 400px;
+}
+.reach-box-stu-reached.reach-box-stu-reachedsih2019Hard {
+    border-right: none;
+}
+
+/* importantResources */
+
+.banner-bottom-count-ler-res {
+    display: none;
+}
+h3.learning-resource-ban-head {
+    padding: 0;
+    line-height: 26px;
+    margin-top: 0;
+}
+.banner-bottom-color-ler-res {
+    top: 20px;
+}
+.bg-wht {
+    padding: 10px 0 0 0;
+}
+.imp-top-head-ler-ser {
+    margin: 0 0 30px 0;
+}
+.reach-box-ler-res {
+    border-bottom: 4px solid #d6d6d3;
+    padding: 0 0px 0 0px;
+    margin: 0 0 20px 0;
+    border-right: none;
+}
+.icon-box-ler-res img {
+    position: absolute;
+    top: -80px;
+    right: 10px;
+    width: 24%;
+}
+.icon-box-ler-res-certi img {
+    position: absolute;
+    top: 21px;
+    right: 3px;
+    width: 26%;
+}
+section.banner-bottom-counter {
+    padding: 0 0 60px 0;
+}
+
+/* videoPrototypes */
+
+h3.message {
+    padding: 0;
+    line-height: 26px;
+    text-shadow: 0 0px 10px rgba(0, 0, 0, 0.5);
+}
+.reach-box-video-prototype {
+    padding: 0;
+    border-right: none;
+}
+.icon-box-video-prototype img {
+    width: auto;
+    position: absolute;
+    top: -100px;
+    right: -40px;
+}
+.nodal-center-vdplyer {
+    padding: 0;
+}
+.brd-right-bottom-vdplyer {
+    border-right: none;
+    /* height: 120px; */
+}
+.videoPrototypesSlideCust .slick-slide {
+    height: 400px;
+}
+section.leaders-talk {
+    background-color: #002449;
+    padding: 60px 0 60px 0;
+}
+.banner-bottom-color-news-update {
+    top: -40px;
+    padding: 40px 10px 70px 10px;
+}
+.gallery-box iframe {
+    width: 100%;
+    margin: 30px 0 0 0;
+}
+.new-med-top img{
+    width: 50%;
+}
+.new-med-top2 img{
+    width: 20%;
+}
+section#speech-interview .container-fluid {
+    margin: 0;
+    padding: 0;
+}
+.sih-2017-tabs-nm .tab-content>.active {
+    padding: 0 !important;
+}
+.sliderMediaandNews .slick-slide {
+    display: block;
+    margin-right: 0px;
+    background: #fff;
+    padding: 40px 0px;
+    text-align: center;
+    height: 350px;
+    margin-left: 0px;
+}
+.gallery-box-ler-res-nm{
+    width: 290px !important;
+}
+.share-box {
+    border: 1px solid #929292;
+    border-radius: 0px;
+    padding: 2px 2px;
+    position: relative;
+    right: 0;
+    display: block;
+}
+.like-box {
+    border: 1px solid #929292;
+    border-radius: 1px;
+    padding: 2px 2px;
+    position: relative;
+    right: 0;
+}
+.slider1NewsAndMedia .slick-slide {
+    display: block;
+    margin-right: 0px;
+    background: #fff;
+    padding: 40px 0px;
+    text-align: center;
+    height: 350px;
+    margin-left: 0px;
+}
+
+/* mediaSocialMedia */
+
+h3.social-media-heading {
+    padding: 0;
+    line-height: 26px;
+    margin-top: 0;
+}
+.smt-content h2 {
+    letter-spacing: 0px; 
+    font-size: 24px;
+}
+.social-media-list ul li {
+    display: inline;
+    padding: 0 25px;
+}
+.twitterslideMediaSocial .slick-slide {
+    display: block;
+    margin-right: 0px;
+    background: #fff;
+    padding: 40px 0px;
+    text-align: center;
+    height: auto;
+    margin-left: 0px;
+}
+
+/* testimonials */
+
+h3.sihTestimonial {
+    padding: 0;
+    line-height: 26px;
+    margin-top: 20px;
+}
+.testiMain {
+    box-shadow: 0 6px 12px rgba(0,0,0,.175);
+    padding: 5px 10px 0 10px;
+    border-radius: 5px;
+    margin: 0 0 30px 0;
+    background: #fff;
+}
+.testiPara {
+    padding: 10px 20px 10px 0px;
+    text-align: justify;
+}
+.leader-talk-heading h2 {
+    font-size: 28px;
+}
+
+/* Messages */
+
+.chairperson-video iframe {
+    width: 100%;
+}
+.chai-say-box-front {
+    top: 30px;
+    padding: 50px 10px 0px;
+}
+.chai-say-box-bg {
+    display: none;
+}
+.message-say-head h2 {
+    color: #fff;
+    padding: 0;
+    font-family: montserratlight;
+    font-size: 36px;
+    margin: 0 0 50px 0;
+}
+section.messages-say {
+    text-align: center;
+    background-color: #002449;
+    padding: 0px 0 50px 0;
+}
+.message-say-bg {
+    padding: 70px 10px;
+}
+.introSoftResult {
+    overflow-y: scroll;
+}
+
+/* faqs */
+
+h3.faq-heading {
+    padding: 0;
+    line-height: 26px;
+    text-shadow: 0 0px 10px rgba(0, 0, 0, 0.5);
+}
+section.faq-top-heading img {
+    width: 50%;
+    float: none;
+    display: block;
+    margin: 0 auto;
+}
+section.faq-top-heading {
+    padding: 50px 0 0;
+}
+.row.spoc-cus-bg {
+    padding: 40px 0px 40px 0px;
+}
+.card-body.custom-card-body {
+    padding: 0 20px 50px 20px;
+}
+.spoc-cus-bg {
+    padding: 40px 0 0;
+}
+.faq-spoc-right-but {
+    float: none;
+    display: block;
+    margin: 0 0 20px 0;
+}
+.team-right-but {
+    float: none;
+    display: block;
+    margin: 0 0 20px 0;
+}
+.card .card-body {
+    padding: 0 20px 50px 20px;
+}
+h3.contact-sih {
+    padding: 0;
+    line-height: 26px;
+    margin-top: 0;
+}
+.contact-box-right {
+    padding: 60px 0px 60px 0px;
+}
+.banner-bottom-count-abt-contact {
+    display: none;
+} 
+.carousel.slide.mt-5.pt-5 {
+    margin-top: 0 !important;
+} 
+.psBox h2 {
+    font-size: 16px;
+    padding: 20px 0 20px 0;
+}
+.psBox {
+    height: 100%;
+    background-size: cover;
+}
+section.topbannerPS {
+    padding: 30px 0 30px 0;
+	height: auto;
+}
+.carousel.slide.mt-5.pt-4 {
+    /* padding-top: 0 !important; */
+    margin-top: 0 !important;
+}
+.col-md-4.bdr-right {
+    border-bottom: 1px solid #ffffff57;
+	border-right: none;
+    padding: 10px 0 10px 0px;
+}
+.col-md-4.topMob {
+    padding: 10px 0 0 0;
+}
+img.newGIFImg1 {
+    width: 16%;
+}
+.row.organizing-head.awsOrganizing {
+    padding: 20px 0px 20px 0px;
+}
+.topViewContent {
+    line-height: 32px;
+    margin: 0 0 10px 0;
+}
+img.preScreSIHSR {
+    height: 150px !important;
+}
+}
+
+
+@media only screen and (max-device-width: 480px)  {
+h3.imp-team {
+    padding: 0 40px;
+    line-height: 1;
+    margin-top: 15px;
+    text-shadow: 0 0px 10px rgb(0 0 0 / 50%);
+}
+.themeImg2022 img {
+    width: 50%;
+    margin: 0 auto;
+}
+.themesTitle h3 {
+    margin: 0 0 0 14px;
+}
+
+	a.carousel-control-prev.bannerSlide {
+    top: 40px;
+}
+a.carousel-control-prev.bannerSlide i {
+    font-size: 30px;
+    padding: 0px 10px;
+}
+a.carousel-control-next.bannerSlide {
+    top: 40px;
+}
+a.carousel-control-next.bannerSlide i {
+    font-size: 30px;
+    padding: 0 10px;
+}
+	.modal-dialog {
+    max-width: 100%;
+}
+	.navbar-brand {
+	width: 60%;
+}
+a.navbar-brand img {
+	    width: 43%;
+    position: relative;
+    top: 0px;
+    left: -10px;
+}
+.banner-bottom-color-div {
+	top: 0;
+}
+[data-toggle="collapse"].res-navbar.collapsed:after {
+    transform: rotate(0deg);
+    display: none;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    content: "\f067";
+}
+[data-toggle="collapse"].res-navbar:after {
+    display: none;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    content: "\f068";
+    transition: all linear 0.25s;
+    float: right;
+    background: #5d73d1;
+    color: #fff;
+    padding: 11px 13px;
+    border-radius: 50%;
+}
+.navbar-dark .navbar-toggler {
+    color: rgba(255, 255, 255, 0.5);
+    border-color: #6aabdd;
+}
+.navbar-toggler {
+    padding: 2px 8px;
+    font-size: 1.25rem;
+    line-height: 1;
+    background-color: #002449;
+    border: 1px solid #fff;
+    border-radius: 0.25rem;
+}
+.banner-bottom-count {
+	display: none;
+}
+.carousel-indicators {
+	bottom: -5%;
+}
+.carousel-indicators li {
+	width: 6px;
+    height: 6px;
+}
+.banner-bottom-top h3 {
+    color: #f75700;
+    font-weight: 700;
+    padding: 0 5%;
+    line-height: 28px;
+    font-size: 26px;
+    margin: 0 0 30px 0;
+    font-family: montserratbold;
+}
+.count-div h4 {
+	font-size: 18px;
+}
+.count-div p {
+	font-size: 14px;
+	line-height: 18px;
+}
+.count-div2 {
+	border-right: none;
+}
+.count-div2 h4 {
+	font-size: 18px;
+}
+.count-div2 p {
+	font-size: 14px;
+}
+.count-div {
+	padding: 10px 20px 10px 0;
+	border: none;
+}
+.count-div3 {
+    padding: 10px 17px 10px 0;
+	border: none;
+}
+.count-div3 h4 {
+	font-size: 18px;
+}
+.count-div3 p {
+	font-size: 14px;
+}
+.count-div4 h4 {
+	font-size: 18px;
+}
+.count-div4 p {
+	font-size: 14px;
+}
+.call-us-now {
+    position: fixed;
+    right: -88px;
+    bottom: 355px;
+    padding: 0;
+}
+.call-us-now img {
+    width: 50%;
+    padding: 0;
+}
+.smt-ind-hack h3 {
+	font-size: 22px;
+    line-height: 24px;
+}
+.smt-ind-hack span {
+	font-size: 13px;
+}
+.smt-ind-hack {
+    text-align: center;
+    margin: 20px 0 10px 0;
+}
+.sih-five {
+	height: 240px;
+    margin-bottom: 30px;
+}
+.sih-five h3 {
+    font-size: 18px;
+}
+.sih-five p {
+	font-size: 14px;
+}
+.tab-box h2 {
+    color: #fff;
+    font-weight: 700;
+    margin: 10px 0 0 0;
+    font-family: montserratbold;
+    font-size: 26px;
+    width: 100%;
+    line-height: 27px;
+}
+.tab-box span {
+	font-size: 14px;
+}
+.back-bg {
+	display: none;
+}
+.slick-initialized .slick-slide {
+    display: block;
+    margin-right: 0px;
+    background: #fff;
+    padding: 40px 0px;
+    text-align: center;
+    height: 350px;
+    margin-left: 0px;
+}
+.sih-theme-heading h2 {
+    font-size: 26px;
+}
+.sih-theme-heading span {
+    font-size: 14px;
+}
+.slick-slide h3 {
+    font-size: 18px;
+}
+.slick-slide h3 {
+    font-size: 18px;
+}
+.sih-theme-heading p {
+	font-size: 14px;
+}
+.slick-slide p {
+	font-size: 15px;
+	padding: 0px 10px;
+}
+.slick-slide img {
+    width: 100%;
+    padding: 0 0 30px 0;
+}
+.nav-top {
+    height: 40px;
+}
+.newAnnBg {
+    width: 207px;
+    height: 145px;
+    border-radius: 5px;
+}
+.newAnnBg h3 {
+    font-size: 14px;
+    padding: 10px 0 0 10px;
+}
+.newAnnBg p {
+    font-size: 14px;
+    padding: 34px 0 0 10px;
+    line-height: 20px;
+}
+.newAnnBg a {
+    font-size: 12px;
+    bottom: 12px;
+    left: 10px;
+    padding: 4px 10px;
+    border-radius: 2px;
+}
+.nav-top .hamburger {
+    font-size: 30px;
+}
+#mySidenav a {
+    right: -281px;
+}
+
+/******************** New ********************/
+
+#register {
+    top: 200px;
+}
+#dateRegister {
+    top: 260px;
+}
+#registerCisco {
+    top: 200px;
+}
+#mySidenavCisco a {
+    left: -200px;
+}
+.whatIsSIH-head h3 {
+    font-size: 26px;
+}
+.landingPageVideo {
+    top: 0px;
+}
+.part-heading p {
+    font-size: 26px;
+    line-height: 32px;
+}
+.part-heading h2 {
+    font-size: 26px;
+}
+.footerHeadingLandingPage h2 {
+	padding: 0px;
+}
+.footer-heading h2 {
+	font-size: 26px;
+	margin: 0 0 20px 0;
+	padding: 0px;
+}
+.footer-heading a {
+	padding: 12px 45px;
+}
+ul.follow-box-copyright li {
+	margin: 0 20px 0 0;
+}
+.row.paddLandingPage {
+    padding: 20px 0px 20px 0px;
+}
+.follow-box.flo-box {
+    float: none;
+    margin: 20px 0 10px 0;
+    position: relative;
+    top: -14px;
+}
+li.app-down {
+    margin: 10px 0 0 0;
+}
+.follow-box p {
+    font-size: 14px;
+    position: relative;
+    bottom: -180px;
+	margin: 0;
+}
+section.organizing-committee-abt {
+    background-color: #002449;
+    padding: 30px 0 0;
+}
+
+
+/* SIH2020 */
+
+h3.about-sih {
+    padding: 0 23px;
+    line-height: 26px;
+    text-shadow: 0 0px 10px rgba(0, 0, 0, 0.5);
+}
+.carousel-caption h3 {
+    font-size: 25px;
+}
+.carousel-caption {
+    position: absolute;
+    right: 10%;
+    top: 16%;
+    bottom: 20px;
+    left: 10%;
+    z-index: 10;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #fff;
+    text-align: center;
+}
+.carousel-caption h5 {
+    font-size: 13px;
+}
+.abt-stu {
+    border-right: none;
+}
+.banner-bottom-color-div-abt {
+    padding: 50px 20px;
+}
+.video-box iframe {
+    width: 100% !important;
+    height: 150px;
+}
+.video-box p {
+    margin: 10px 0 5px 0;
+}
+.process-flow {
+    padding: 80px 10px;
+}
+.tab-card-header > .nav-tabs > li > a {
+    padding: 0;
+    font-size: 18px;
+}
+.org-sih-hard-2018 {
+    margin-bottom: 10px;
+}
+.organizing-head {
+    padding: 50px 0px 30px 0px;
+}
+li.mhrdLandingPadd {
+    padding-right: 0;
+}
+ul.logo-first-box li img {
+    float: none;
+    width: 48%;
+    display: inline;
+    height: auto;
+    padding: 0 0 10px 0;
+}
+.organizing-head2 {
+    padding: 0px 0px 30px;
+}
+.partners-box {
+    padding: 0;
+    margin: 0 0 30px 0;
+	border-right: none;
+}
+.partners-box2 {
+    border-right: none;
+    padding: 0;
+    /* border-bottom: 1px solid #d0d0d0; */
+    margin: 0 0 30px 0;
+}
+.organizing-head3 {
+    padding: 0px 0px 50px 0px;
+}
+footer {
+    padding: 20px 0 10px 0;
+}
+.banner-bottom-count-abt {
+    display: none;
+}
+
+/* organisingCommittee */
+
+h3.exe-comittee {
+    padding: 0px 20px 0;
+    line-height: 28px;
+}
+section.exe-committee-box {
+    padding: 30px 0;
+}
+.exe-comm-heading h3 {
+    font-size: 26px;
+}
+.exe-comm-heading {
+    margin: 0 0 30px 0;
+}
+.card.hovercard {
+    height: auto;
+}
+exe-com-bg {
+    padding: 0px 0 30px 0;
+}
+.card.hovercard .avatar img {
+    width: 50%;
+}
+.title span {
+    width: 50px;
+}
+.cards-details-content {
+    padding: 20px 30px 40px 35px;
+}
+.cards-details {
+    padding: 0 0 0 35px;
+}
+.title h3 {
+    left: -30px;
+}
+h3.mohit-gam {
+    position: relative;
+    left: -10px;
+}
+.exe-com-bg {
+    padding: 0;
+}
+
+/* sih2020PS */
+
+h3.prob-statement {
+    padding: 0;
+    line-height: 30px;
+    margin-top: 0px;
+	margin-bottom: 0;
+}
+p.contact-us-para {
+    margin: 0;
+	font-size: 15px;
+}
+.statement-box {
+    padding: 20px 20px;
+}
+.hard {
+    width: 46%;
+    display: block;
+    margin: 30px 0 0 0;
+}
+.soft {
+    display: block;
+    position: absolute;
+    top: -69px;
+    right: 0;
+}
+.soft h3 {
+    font-size: 60px !important;
+}
+.hard h3 {
+    font-size: 60px !important;
+}
+.statement-box h3 {
+    font-size: 30px;
+    margin: 0;
+    text-align: center;
+}
+.statement-box p {
+    margin: 0 0 0px 0;
+    font-size: 17px;
+}
+.row.catBox1 {
+    padding: 10px 0 20px 0;
+    width: 100%;
+}
+.radioButPS {
+    display: inline-block;
+    width: 220px;
+}
+.dataTables_wrapper {
+    width: 100%;
+    overflow-y: scroll;
+}
+h3.sih-2017-heading {
+    padding: 0;
+    line-height: 26px;
+}
+section.impact-box .container.px-5.py-5 {
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+	padding-bottom: 0px !important;
+}
+.icon-box img {
+    display: none;
+}
+.icon-box-smv img {
+    display: none;
+}
+.reach-box {
+    width: 127px;
+}
+.reach-box-stu-reached {
+    margin: 0 -82px 0 0;
+    width: 100%;
+}
+.reach-box-nationwide {
+    margin: 0 -35px 0 0;
+    width: 100%;
+	border-right: none;
+}
+.icon-box-stu-reached img {
+    display: none;
+}
+.icon-box-nationwide img {
+    display: none;
+}
+.icon-box-training img {
+    display: none;
+}
+.nat-wid {
+    position: relative;
+    left: 0;
+}
+.nat-wid-line {
+    position: relative;
+    left: 0;
+}
+.nat-wid-text {
+    position: relative;
+    left: 0;
+}
+.reach-box.reach-boxRes {
+    border-right: none;
+	width: 126px;
+}
+.text-big h3 {
+    font-size: 30px;
+}
+section.impact-box {
+    padding: 50px 0 0;
+	overflow: hidden;
+}
+.brd-right-bottom {
+    border-right: none;
+    height: 120px;
+}
+.nodal-center {
+    padding: 0;
+    width: 100%;
+    display: block;
+}
+.nat-wid-nodel h3 {
+    font-size: 38px;
+}
+.nat-wid-icon img {
+    position: absolute;
+    top: -90px;
+    right: 30px;
+}
+.idea-icon img {
+    position: absolute;
+    top: -100px;
+    right: 30px;
+}
+.ext-pad22017 {
+    padding: 0 0 0 20px !important
+}
+.ext-pad {
+    padding: 0;
+}
+.ext-pad2 {
+    padding: 0;
+}
+.nodal-center2 {
+    border-bottom: none;
+    padding: 0 0 20px 0px;
+}
+.evelau img {
+    position: absolute;
+    top: -70px;
+    right: 20px;
+}
+.stu-sih-ico img {
+    position: absolute;
+    top: -61px;
+    right: 30px;
+}
+.brd-right-bottom-sec {
+    border-bottom: 2px solid #ffffff45;
+    height: 120px;
+	border-right: none;
+	margin-bottom: 10px;
+}
+.response-gap {
+    margin: 10px 0 0 0;
+}
+.winner-box h3 {
+    font-size: 24px;
+}
+section.winners {
+    padding: 50px 0 0;
+}
+section.winners {
+    background-color: #002449;
+    padding: 50px 0 0;
+}
+.gallery-box-slide1 img {
+    width: 30%;
+    padding: 0 0 30px 0;
+}
+.sliderIndex img{
+    width: 30%;
+    padding: 0 0 30px 0;
+}
+section.sih-gallery {
+    background-color: #002449;
+    padding: 50px 0 0px 0;
+}
+.slick-initialized .gallery-box-slide1{
+    display: block;
+    margin-right: 0px;
+    background: #fff;
+    padding: 40px 0px;
+    text-align: center;
+    height: 350px;
+    margin-left: 0px;
+}
+.reach-box-training {
+    padding: 0;
+    margin: 0;
+}
+
+/* sih2018Software */
+
+h3.sih-201888-heading {
+    padding: 0;
+    line-height: 26px;
+}
+.carousel-caption p {
+    font-size: 13px;
+    margin: 10px 0 30px 0;
+}
+p.sih-2018-banner-para {
+    letter-spacing: 2px;
+}
+.icon-box-sih-2018 img {
+    display: none;
+}
+.icon-box-stu-reached-sih-2018 img {
+    display: none;
+}
+.evelau-sih-2018 img {
+    position: absolute;
+    top: -87px;
+    right: 10px;
+}
+.stu-sih-ico-sih-2018 img {
+    position: absolute;
+    top: -70px;
+    right: 30px;
+}
+.stu-sih-ico-sih-20188 img {
+    position: absolute;
+    top: -60px;
+    right: 30px;
+}
+.brd-right-bottom-sih {
+    border-right: none;
+    height: auto;
+}
+.nodal-center-sih {
+    border-bottom: 2px solid #d6d6d3;
+    padding: 0px;
+	margin: 0 0 10px 0;
+}
+.nat-wid-icon-sih-soft img {
+    position: absolute;
+    top: -90px;
+    right: 30px;
+}
+.idea-icon-sih img {
+    position: absolute;
+    top: -130px;
+    right: 25px;
+}
+.idea-icon2018Soft img {
+    position: absolute;
+    top: -100px;
+    right: 30px;
+}
+.response-gap2018Soft {
+    margin: 20px 0 0 0;
+}
+.brd-right-bottom-sec-sih-soft {
+    border-right: none;
+    height: auto;
+    padding: 0;
+}
+.nodal-center22018Soft {
+    border-bottom: 2px solid #d6d6d3;
+    padding: 0px;
+	margin: 0 0 10px 0;
+}
+.brd-right-bottom-sec:last-child {
+    border-right: none;
+    height: auto;
+    padding: 0;
+}
+.evelau-sih-2018Soft img {
+    position: absolute;
+    top: -107px;
+    right: 30px;
+}
+.text-content-sih1 p {
+    padding: 0 10px 0px 10px;
+}
+.stu-sih-ico-sih-2018-softt img {
+    position: absolute;
+    top: -110px;
+    right: 30px;
+}
+.finale-content {
+    margin: 0;
+}
+section.content-normal {
+    padding: 70px 0 0;
+}
+.lead-tlk-bg {
+    height: 500px;
+}
+section.leaders-talk .container-fluid {
+    padding: 0 0 30px 0;
+}
+.sliderIndex2018Soft .slick-slide {
+    display: block;
+    margin-right: 0px;
+    background: #fff;
+    padding: 40px 0px;
+    text-align: center;
+    height: 350px;
+    margin-left: 0px;
+}
+section.sih-2017-tabs2018Soft .container-fluid {
+    padding: 0;
+    margin: 0 !important;
+}
+ul.logo-first-box2018Soft li img {
+    float: none;
+    width: 48%;
+    display: inline;
+    height: auto;
+    padding: 0 0 10px 0;
+}
+a.footerHeading2018SoftBut {
+    /* margin: 0 0 30px 0; */
+    display: block;
+}
+
+/* sih2018Hardware */
+
+.reach-box2018Hardware {
+    border-right: none;
+}
+.finale-content2018Hardware {
+    margin: 30px 0 0 0;
+}
+.sih-gallery .slick-dots {
+    top: 0px;
+    padding: 0 20px;
+}
+ul.partners-1 li img {
+    width: 35%;
+    margin: 0 20px;
+}
+.slick-initialized2018Hardware .slick-slide {
+    display: block;
+    margin-right: 30px;
+    background: #fff;
+    padding: 40px 0px;
+    text-align: center;
+    height: 400px;
+    margin-left: 30px;
+}
+section.sih-theme-past-event .container-fluid {
+    margin: 0;
+}
+section.sih-2017-tabs .container-fluid {
+    margin: 0;
+	padding: 0;
+}
+.organizing-head {
+    top: 0;
+}
+.organizing-head2 {
+    top: 0;
+}
+.organizing-head3 {
+    top: 0;
+}
+section.sih-2017-tabs {
+    padding: 10px 0 0px 0;
+    background-color: #fff;
+}
+section.sih-theme-past-event {
+    height: auto;
+}
+.row.footer-line {
+    border-top: none;
+    top: -29px;
+}
+.slidesoft2018Software .slick-slide {
+    height: 400px;
+}
+
+/* sih2019 */
+
+.reach-box-stu-reachedSIH2019 {
+    margin: 0 -82px 0 0;
+    width: 100%;
+    border-right: none;
+}
+.nodal-center2SIH2019 {
+    border-bottom: none;
+    padding: 0 0 20px 20px;
+}
+.brd-right-bottom-sec1:last-child {
+    border-right: none;
+    height: auto;
+    padding: 0;
+    border-bottom: none;
+}
+section.nationwide-response {
+    padding: 50px 0px 20px;
+	overflow: hidden;
+}
+p.finale-contentSIH2019 {
+    margin-top: 30px;
+}
+.winner-box-1 p {
+    text-align: left;
+}
+.slider2019SIH .slick-slide {
+    height: 400px;
+}
+.sih2019CusHeading h2 {
+    font-size: 26px;
+}
+.nodal-center-no-bdr {
+    border-bottom: 2px solid #ffffff45;
+}
+
+/* sih2019Hard */
+.col-md-4.brd-right-bottom-sec.brd-right-bottom-secNoBdr {
+    border-bottom: none;
+}
+p.finale-contentSIH2019Hard {
+    margin: 30px 0 20px 0;
+}
+.slidersih2019Hard .slick-slide {
+    height: 400px;
+}
+.reach-box-stu-reached.reach-box-stu-reachedsih2019Hard {
+    border-right: none;
+}
+
+/* importantResources */
+
+.banner-bottom-count-ler-res {
+    display: none;
+}
+h3.learning-resource-ban-head {
+    padding: 0;
+    line-height: 26px;
+    margin-top: 0;
+}
+.banner-bottom-color-ler-res {
+    top: 20px;
+}
+.bg-wht {
+    padding: 10px 0 0 0;
+}
+.imp-top-head-ler-ser {
+    margin: 0 0 30px 0;
+}
+.reach-box-ler-res {
+    border-bottom: 4px solid #d6d6d3;
+    padding: 0 0px 0 0px;
+    margin: 0 0 20px 0;
+    border-right: none;
+}
+.icon-box-ler-res img {
+    position: absolute;
+    top: -80px;
+    right: 10px;
+    width: 24%;
+}
+.icon-box-ler-res-certi img {
+    position: absolute;
+    top: 21px;
+    right: 3px;
+    width: 26%;
+}
+section.banner-bottom-counter {
+    padding: 0 0 60px 0;
+}
+
+/* videoPrototypes */
+
+h3.message {
+    padding: 0;
+    line-height: 26px;
+    text-shadow: 0 0px 10px rgba(0, 0, 0, 0.5);
+}
+.reach-box-video-prototype {
+    padding: 0;
+    border-right: none;
+}
+.icon-box-video-prototype img {
+    width: auto;
+    position: absolute;
+    top: -100px;
+    right: -40px;
+}
+.nodal-center-vdplyer {
+    padding: 0;
+}
+.brd-right-bottom-vdplyer {
+    border-right: none;
+    /* height: 120px; */
+}
+.videoPrototypesSlideCust .slick-slide {
+    height: 400px;
+}
+section.leaders-talk {
+    background-color: #002449;
+    padding: 60px 0 60px 0;
+}
+.banner-bottom-color-news-update {
+    top: -40px;
+    padding: 40px 10px 70px 10px;
+}
+.gallery-box iframe {
+    width: 100%;
+    margin: 30px 0 0 0;
+}
+.new-med-top img{
+    width: 50%;
+}
+.new-med-top2 img{
+    width: 20%;
+}
+section#speech-interview .container-fluid {
+    margin: 0;
+    padding: 0;
+}
+.sih-2017-tabs-nm .tab-content>.active {
+    padding: 0 !important;
+}
+.sliderMediaandNews .slick-slide {
+    display: block;
+    margin-right: 0px;
+    background: #fff;
+    padding: 40px 0px;
+    text-align: center;
+    height: 350px;
+    margin-left: 0px;
+}
+.gallery-box-ler-res-nm{
+    width: 290px !important;
+}
+.share-box {
+    border: 1px solid #929292;
+    border-radius: 0px;
+    padding: 2px 2px;
+    position: relative;
+    right: 0;
+    display: block;
+}
+.like-box {
+    border: 1px solid #929292;
+    border-radius: 1px;
+    padding: 2px 2px;
+    position: relative;
+    right: 0;
+}
+.slider1NewsAndMedia .slick-slide {
+    display: block;
+    margin-right: 0px;
+    background: #fff;
+    padding: 40px 0px;
+    text-align: center;
+    height: 350px;
+    margin-left: 0px;
+}
+
+/* mediaSocialMedia */
+
+h3.social-media-heading {
+    padding: 0;
+    line-height: 26px;
+    margin-top: 0;
+}
+.smt-content h2 {
+    letter-spacing: 0px; 
+    font-size: 24px;
+}
+.social-media-list ul li {
+    display: inline;
+    padding: 0 25px;
+}
+.twitterslideMediaSocial .slick-slide {
+    display: block;
+    margin-right: 0px;
+    background: #fff;
+    padding: 40px 0px;
+    text-align: center;
+    height: auto;
+    margin-left: 0px;
+}
+
+/* testimonials */
+
+h3.sihTestimonial {
+    padding: 0;
+    line-height: 26px;
+    margin-top: 20px;
+}
+.testiMain {
+    box-shadow: 0 6px 12px rgba(0,0,0,.175);
+    padding: 5px 10px 0 10px;
+    border-radius: 5px;
+    margin: 0 0 30px 0;
+    background: #fff;
+}
+.testiPara {
+    padding: 10px 20px 10px 0px;
+    text-align: justify;
+}
+.leader-talk-heading h2 {
+    font-size: 28px;
+}
+
+/* Messages */
+
+.chairperson-video iframe {
+    width: 100%;
+}
+.chai-say-box-front {
+    top: 30px;
+    padding: 50px 10px 0px;
+}
+.chai-say-box-bg {
+    display: none;
+}
+.message-say-head h2 {
+    color: #fff;
+    padding: 0;
+    font-family: montserratlight;
+    font-size: 36px;
+    margin: 0 0 50px 0;
+}
+section.messages-say {
+    text-align: center;
+    background-color: #002449;
+    padding: 0px 0 50px 0;
+}
+.message-say-bg {
+    padding: 70px 10px;
+}
+.introSoftResult {
+    overflow-y: scroll;
+}
+
+/* faqs */
+
+h3.faq-heading {
+    padding: 0;
+    line-height: 26px;
+    text-shadow: 0 0px 10px rgba(0, 0, 0, 0.5);
+}
+section.faq-top-heading img {
+    width: 50%;
+    float: none;
+    display: block;
+    margin: 0 auto;
+}
+section.faq-top-heading {
+    padding: 50px 0 0;
+}
+.row.spoc-cus-bg {
+    padding: 40px 0px 40px 0px;
+}
+.card-body.custom-card-body {
+    padding: 0 20px 50px 20px;
+}
+.spoc-cus-bg {
+    padding: 40px 0 0;
+}
+.faq-spoc-right-but {
+    float: none;
+    display: block;
+    margin: 0 0 20px 0;
+}
+.team-right-but {
+    float: none;
+    display: block;
+    margin: 0 0 20px 0;
+}
+.card .card-body {
+    padding: 0 20px 50px 20px;
+}
+h3.contact-sih {
+    padding: 0;
+    line-height: 26px;
+    margin-top: 0;
+}
+.contact-box-right {
+    padding: 60px 0px 60px 0px;
+}
+.banner-bottom-count-abt-contact {
+    display: none;
+}  
+.carousel.slide.mt-5.pt-5 {
+    margin-top: 0 !important;
+}
+.psBox h2 {
+    font-size: 16px;
+    padding: 20px 0 20px 0;
+}
+.psBox {
+    height: 100%;
+    background-size: cover;
+}
+section.topbannerPS {
+    padding: 30px 0 30px 0;
+	height: auto;
+}
+.carousel.slide.mt-5.pt-4 {
+    /* padding-top: 0 !important; */
+    margin-top: 0 !important;
+}
+.col-md-4.bdr-right {
+    border-bottom: 1px solid #ffffff57;
+	border-right: none;
+    padding: 10px 0 10px 0px;
+}
+.col-md-4.topMob {
+    padding: 10px 0 0 0;
+}
+img.newGIFImg1 {
+    width: 16%;
+}
+.row.organizing-head.awsOrganizing {
+    padding: 20px 0px 20px 0px;
+}
+.topViewContent {
+    line-height: 32px;
+    margin: 0 0 10px 0;
+}
+img.preScreSIHSR {
+    height: 150px !important;
+}
+}
+
+
+@media only screen and (max-device-width: 414px)  {
+h3.imp-team {
+    padding: 0 40px;
+    line-height: 1;
+    margin-top: 15px;
+    text-shadow: 0 0px 10px rgb(0 0 0 / 50%);
+}
+.themeImg2022 img {
+    width: 50%;
+    margin: 0 auto;
+}
+.themesTitle h3 {
+    margin: 0 0 0 14px;
+}
+
+	a.carousel-control-prev.bannerSlide {
+    top: 40px;
+}
+a.carousel-control-prev.bannerSlide i {
+    font-size: 30px;
+    padding: 0px 10px;
+}
+a.carousel-control-next.bannerSlide {
+    top: 40px;
+}
+a.carousel-control-next.bannerSlide i {
+    font-size: 30px;
+    padding: 0 10px;
+}
+	.modal-dialog {
+    max-width: 100%;
+}
+  .navbar-brand {
+	width: 60%;
+}
+a.navbar-brand img {
+	    width: 43%;
+    position: relative;
+    top: 0px;
+    left: -10px;
+}
+.banner-bottom-color-div {
+	top: 0;
+}
+[data-toggle="collapse"].res-navbar.collapsed:after {
+    transform: rotate(0deg);
+    display: none;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    content: "\f067";
+}
+[data-toggle="collapse"].res-navbar:after {
+    display: none;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    content: "\f068";
+    transition: all linear 0.25s;
+    float: right;
+    background: #5d73d1;
+    color: #fff;
+    padding: 11px 13px;
+    border-radius: 50%;
+}
+.navbar-dark .navbar-toggler {
+    color: rgba(255, 255, 255, 0.5);
+    border-color: #6aabdd;
+}
+.navbar-toggler {
+    padding: 2px 8px;
+    font-size: 1.25rem;
+    line-height: 1;
+    background-color: #002449;
+    border: 1px solid #fff;
+    border-radius: 0.25rem;
+}
+.banner-bottom-count {
+	display: none;
+}
+.carousel-indicators {
+	bottom: -5%;
+}
+.carousel-indicators li {
+	width: 6px;
+    height: 6px;
+}
+.banner-bottom-top h3 {
+    color: #f75700;
+    font-weight: 700;
+    padding: 0 5%;
+    line-height: 28px;
+    font-size: 26px;
+    margin: 0 0 30px 0;
+    font-family: montserratbold;
+}
+.count-div h4 {
+	font-size: 18px;
+}
+.count-div p {
+	font-size: 14px;
+	line-height: 18px;
+}
+.count-div2 {
+	border-right: none;
+}
+.count-div2 h4 {
+	font-size: 18px;
+}
+.count-div2 p {
+	font-size: 14px;
+}
+.count-div {
+	padding: 10px 20px 10px 0;
+	border: none;
+}
+.count-div3 {
+    padding: 10px 17px 10px 0;
+	border: none;
+}
+.count-div3 h4 {
+	font-size: 18px;
+}
+.count-div3 p {
+	font-size: 14px;
+}
+.count-div4 h4 {
+	font-size: 18px;
+}
+.count-div4 p {
+	font-size: 14px;
+}
+.call-us-now {
+    position: fixed;
+    right: -88px;
+    bottom: 355px;
+    padding: 0;
+}
+.call-us-now img {
+    width: 50%;
+    padding: 0;
+}
+.smt-ind-hack h3 {
+	font-size: 22px;
+    line-height: 24px;
+}
+.smt-ind-hack span {
+	font-size: 13px;
+}
+.smt-ind-hack {
+    text-align: center;
+    margin: 20px 0 10px 0;
+}
+.sih-five {
+	height: 240px;
+    margin-bottom: 30px;
+}
+.sih-five h3 {
+    font-size: 18px;
+}
+.sih-five p {
+	font-size: 14px;
+}
+.tab-box h2 {
+    color: #fff;
+    font-weight: 700;
+    margin: 10px 0 0 0;
+    font-family: montserratbold;
+    font-size: 26px;
+    width: 100%;
+    line-height: 27px;
+}
+.tab-box span {
+	font-size: 14px;
+}
+.back-bg {
+	display: none;
+}
+.slick-initialized .slick-slide {
+    display: block;
+    margin-right: 0px;
+    background: #fff;
+    padding: 40px 0px;
+    text-align: center;
+    height: 350px;
+    margin-left: 0px;
+}
+.sih-theme-heading h2 {
+    font-size: 26px;
+}
+.sih-theme-heading span {
+    font-size: 14px;
+}
+.slick-slide h3 {
+    font-size: 18px;
+}
+.slick-slide h3 {
+    font-size: 18px;
+}
+.sih-theme-heading p {
+	font-size: 14px;
+}
+.slick-slide p {
+	font-size: 15px;
+	padding: 0px 10px;
+}
+.slick-slide img {
+    width: 100%;
+    padding: 0 0 30px 0;
+}
+.nav-top {
+    height: 40px;
+}
+.newAnnBg {
+    width: 207px;
+    height: 145px;
+    border-radius: 5px;
+}
+.newAnnBg h3 {
+    font-size: 14px;
+    padding: 10px 0 0 10px;
+}
+.newAnnBg p {
+    font-size: 14px;
+    padding: 34px 0 0 10px;
+    line-height: 20px;
+}
+.newAnnBg a {
+    font-size: 12px;
+    bottom: 12px;
+    left: 10px;
+    padding: 4px 10px;
+    border-radius: 2px;
+}
+.nav-top .hamburger {
+    font-size: 30px;
+}
+#mySidenav a {
+    right: -281px;
+}
+
+/******************** New ********************/
+
+#register {
+    top: 200px;
+}
+#dateRegister {
+    top: 260px;
+}
+#registerCisco {
+    top: 200px;
+}
+#mySidenavCisco a {
+    left: -200px;
+}
+.whatIsSIH-head h3 {
+    font-size: 26px;
+}
+.landingPageVideo {
+    top: 0px;
+}
+.part-heading p {
+    font-size: 26px;
+    line-height: 32px;
+}
+.part-heading h2 {
+    font-size: 26px;
+}
+.footerHeadingLandingPage h2 {
+	padding: 0px;
+}
+.footer-heading h2 {
+	font-size: 26px;
+	margin: 0 0 20px 0;
+	padding: 0px;
+}
+.footer-heading a {
+	padding: 12px 45px;
+}
+ul.follow-box-copyright li {
+	margin: 0 20px 0 0;
+}
+.row.paddLandingPage {
+    padding: 20px 0px 20px 0px;
+}
+.follow-box.flo-box {
+    float: none;
+    margin: 20px 0 10px 0;
+    position: relative;
+    top: -14px;
+}
+li.app-down {
+    margin: 10px 0 0 0;
+}
+.follow-box p {
+    font-size: 14px;
+    position: relative;
+    bottom: -180px;
+	margin: 0;
+}
+section.organizing-committee-abt {
+    background-color: #002449;
+    padding: 30px 0 0;
+}
+
+
+/* SIH2020 */
+
+h3.about-sih {
+    padding: 0 23px;
+    line-height: 26px;
+    text-shadow: 0 0px 10px rgba(0, 0, 0, 0.5);
+}
+.carousel-caption h3 {
+    font-size: 25px;
+}
+.carousel-caption {
+    position: absolute;
+    right: 10%;
+    top: 16%;
+    bottom: 20px;
+    left: 10%;
+    z-index: 10;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #fff;
+    text-align: center;
+}
+.carousel-caption h5 {
+    font-size: 13px;
+}
+.abt-stu {
+    border-right: none;
+}
+.banner-bottom-color-div-abt {
+    padding: 50px 20px;
+}
+.video-box iframe {
+    width: 100% !important;
+    height: 150px;
+}
+.video-box p {
+    margin: 10px 0 5px 0;
+}
+.process-flow {
+    padding: 80px 10px;
+}
+.tab-card-header > .nav-tabs > li > a {
+    padding: 0;
+    font-size: 18px;
+}
+.org-sih-hard-2018 {
+    margin-bottom: 10px;
+}
+.organizing-head {
+    padding: 50px 0px 30px 0px;
+}
+li.mhrdLandingPadd {
+    padding-right: 0;
+}
+ul.logo-first-box li img {
+    float: none;
+    width: 48%;
+    display: inline;
+    height: auto;
+    padding: 0 0 10px 0;
+}
+.organizing-head2 {
+    padding: 0px 0px 30px;
+}
+.partners-box {
+    padding: 0;
+    margin: 0 0 30px 0;
+	border-right: none;
+}
+.partners-box2 {
+    border-right: none;
+    padding: 0;
+    /* border-bottom: 1px solid #d0d0d0; */
+    margin: 0 0 30px 0;
+}
+.organizing-head3 {
+    padding: 0px 0px 50px 0px;
+}
+footer {
+    padding: 20px 0 10px 0;
+}
+.banner-bottom-count-abt {
+    display: none;
+}
+
+/* organisingCommittee */
+
+h3.exe-comittee {
+    padding: 0px 20px 0;
+    line-height: 28px;
+}
+section.exe-committee-box {
+    padding: 30px 0;
+}
+.exe-comm-heading h3 {
+    font-size: 26px;
+}
+.exe-comm-heading {
+    margin: 0 0 30px 0;
+}
+.card.hovercard {
+    height: auto;
+}
+exe-com-bg {
+    padding: 0px 0 30px 0;
+}
+.card.hovercard .avatar img {
+    width: 50%;
+}
+.title span {
+    width: 50px;
+}
+.cards-details-content {
+    padding: 20px 30px 40px 35px;
+}
+.cards-details {
+    padding: 0 0 0 35px;
+}
+.title h3 {
+    left: -30px;
+}
+h3.mohit-gam {
+    position: relative;
+    left: -10px;
+}
+.exe-com-bg {
+    padding: 0;
+}
+
+/* sih2020PS */
+
+h3.prob-statement {
+    padding: 0;
+    line-height: 30px;
+    margin-top: 0px;
+	margin-bottom: 0;
+}
+p.contact-us-para {
+    margin: 0;
+	font-size: 15px;
+}
+.statement-box {
+    padding: 20px 20px;
+}
+.hard {
+    width: 46%;
+    display: block;
+    margin: 30px 0 0 0;
+}
+.soft {
+    display: block;
+    position: absolute;
+    top: -69px;
+    right: 0;
+}
+.soft h3 {
+    font-size: 60px !important;
+}
+.hard h3 {
+    font-size: 60px !important;
+}
+.statement-box h3 {
+    font-size: 30px;
+    margin: 0;
+    text-align: center;
+}
+.statement-box p {
+    margin: 0 0 0px 0;
+    font-size: 17px;
+}
+.row.catBox1 {
+    padding: 10px 0 20px 0;
+    width: 100%;
+}
+.radioButPS {
+    display: inline-block;
+    width: 220px;
+}
+.dataTables_wrapper {
+    width: 100%;
+    overflow-y: scroll;
+}
+h3.sih-2017-heading {
+    padding: 0;
+    line-height: 26px;
+}
+section.impact-box .container.px-5.py-5 {
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+	padding-bottom: 0px !important;
+}
+.icon-box img {
+    display: none;
+}
+.icon-box-smv img {
+    display: none;
+}
+.reach-box {
+    width: 127px;
+}
+.reach-box-stu-reached {
+    margin: 0 -82px 0 0;
+    width: 100%;
+}
+.reach-box-nationwide {
+    margin: 0 -35px 0 0;
+    width: 100%;
+	border-right: none;
+}
+.icon-box-stu-reached img {
+    display: none;
+}
+.icon-box-nationwide img {
+    display: none;
+}
+.icon-box-training img {
+    display: none;
+}
+.nat-wid {
+    position: relative;
+    left: 0;
+}
+.nat-wid-line {
+    position: relative;
+    left: 0;
+}
+.nat-wid-text {
+    position: relative;
+    left: 0;
+}
+.reach-box.reach-boxRes {
+    border-right: none;
+	width: 126px;
+}
+.text-big h3 {
+    font-size: 30px;
+}
+section.impact-box {
+    padding: 50px 0 0;
+	overflow: hidden;
+}
+.brd-right-bottom {
+    border-right: none;
+    height: 120px;
+}
+.nodal-center {
+    padding: 0;
+    width: 100%;
+    display: block;
+}
+.nat-wid-nodel h3 {
+    font-size: 38px;
+}
+.nat-wid-icon img {
+    position: absolute;
+    top: -90px;
+    right: 30px;
+}
+.idea-icon img {
+    position: absolute;
+    top: -100px;
+    right: 30px;
+}
+.ext-pad22017 {
+    padding: 0 0 0 20px !important
+}
+.ext-pad {
+    padding: 0;
+}
+.ext-pad2 {
+    padding: 0;
+}
+.nodal-center2 {
+    border-bottom: none;
+    padding: 0 0 20px 0px;
+}
+.evelau img {
+    position: absolute;
+    top: -70px;
+    right: 20px;
+}
+.stu-sih-ico img {
+    position: absolute;
+    top: -61px;
+    right: 30px;
+}
+.brd-right-bottom-sec {
+    border-bottom: 2px solid #ffffff45;
+    height: 120px;
+	border-right: none;
+	margin-bottom: 10px;
+}
+.response-gap {
+    margin: 10px 0 0 0;
+}
+.winner-box h3 {
+    font-size: 24px;
+}
+section.winners {
+    padding: 50px 0 0;
+}
+section.winners {
+    background-color: #002449;
+    padding: 50px 0 0;
+}
+.gallery-box-slide1 img {
+    width: 30%;
+    padding: 0 0 30px 0;
+}
+.sliderIndex img{
+    width: 30%;
+    padding: 0 0 30px 0;
+}
+section.sih-gallery {
+    background-color: #002449;
+    padding: 50px 0 0px 0;
+}
+.slick-initialized .gallery-box-slide1{
+    display: block;
+    margin-right: 0px;
+    background: #fff;
+    padding: 40px 0px;
+    text-align: center;
+    height: 350px;
+    margin-left: 0px;
+}
+.reach-box-training {
+    padding: 0;
+    margin: 0;
+}
+
+/* sih2018Software */
+
+h3.sih-201888-heading {
+    padding: 0;
+    line-height: 26px;
+}
+.carousel-caption p {
+    font-size: 13px;
+    margin: 10px 0 30px 0;
+}
+p.sih-2018-banner-para {
+    letter-spacing: 2px;
+}
+.icon-box-sih-2018 img {
+    display: none;
+}
+.icon-box-stu-reached-sih-2018 img {
+    display: none;
+}
+.evelau-sih-2018 img {
+    position: absolute;
+    top: -87px;
+    right: 10px;
+}
+.stu-sih-ico-sih-2018 img {
+    position: absolute;
+    top: -70px;
+    right: 30px;
+}
+.stu-sih-ico-sih-20188 img {
+    position: absolute;
+    top: -60px;
+    right: 30px;
+}
+.brd-right-bottom-sih {
+    border-right: none;
+    height: auto;
+}
+.nodal-center-sih {
+    border-bottom: 2px solid #d6d6d3;
+    padding: 0px;
+	margin: 0 0 10px 0;
+}
+.nat-wid-icon-sih-soft img {
+    position: absolute;
+    top: -90px;
+    right: 30px;
+}
+.idea-icon-sih img {
+    position: absolute;
+    top: -130px;
+    right: 25px;
+}
+.idea-icon2018Soft img {
+    position: absolute;
+    top: -100px;
+    right: 30px;
+}
+.response-gap2018Soft {
+    margin: 20px 0 0 0;
+}
+.brd-right-bottom-sec-sih-soft {
+    border-right: none;
+    height: auto;
+    padding: 0;
+}
+.nodal-center22018Soft {
+    border-bottom: 2px solid #d6d6d3;
+    padding: 0px;
+	margin: 0 0 10px 0;
+}
+.brd-right-bottom-sec:last-child {
+    border-right: none;
+    height: auto;
+    padding: 0;
+}
+.evelau-sih-2018Soft img {
+    position: absolute;
+    top: -107px;
+    right: 30px;
+}
+.text-content-sih1 p {
+    padding: 0 10px 0px 10px;
+}
+.stu-sih-ico-sih-2018-softt img {
+    position: absolute;
+    top: -110px;
+    right: 30px;
+}
+.finale-content {
+    margin: 0;
+}
+section.content-normal {
+    padding: 70px 0 0;
+}
+.lead-tlk-bg {
+    height: 500px;
+}
+section.leaders-talk .container-fluid {
+    padding: 0 0 30px 0;
+}
+.sliderIndex2018Soft .slick-slide {
+    display: block;
+    margin-right: 0px;
+    background: #fff;
+    padding: 40px 0px;
+    text-align: center;
+    height: 350px;
+    margin-left: 0px;
+}
+section.sih-2017-tabs2018Soft .container-fluid {
+    padding: 0;
+    margin: 0 !important;
+}
+ul.logo-first-box2018Soft li img {
+    float: none;
+    width: 48%;
+    display: inline;
+    height: auto;
+    padding: 0 0 10px 0;
+}
+a.footerHeading2018SoftBut {
+    /* margin: 0 0 30px 0; */
+    display: block;
+}
+
+/* sih2018Hardware */
+
+.reach-box2018Hardware {
+    border-right: none;
+}
+.finale-content2018Hardware {
+    margin: 30px 0 0 0;
+}
+.sih-gallery .slick-dots {
+    top: 0px;
+    padding: 0 20px;
+}
+ul.partners-1 li img {
+    width: 35%;
+    margin: 0 20px;
+}
+.slick-initialized2018Hardware .slick-slide {
+    display: block;
+    margin-right: 30px;
+    background: #fff;
+    padding: 40px 0px;
+    text-align: center;
+    height: 400px;
+    margin-left: 30px;
+}
+section.sih-theme-past-event .container-fluid {
+    margin: 0;
+}
+section.sih-2017-tabs .container-fluid {
+    margin: 0;
+	padding: 0;
+}
+.organizing-head {
+    top: 0;
+}
+.organizing-head2 {
+    top: 0;
+}
+.organizing-head3 {
+    top: 0;
+}
+section.sih-2017-tabs {
+    padding: 10px 0 0px 0;
+    background-color: #fff;
+}
+section.sih-theme-past-event {
+    height: auto;
+}
+.row.footer-line {
+    border-top: none;
+    top: -29px;
+}
+.slidesoft2018Software .slick-slide {
+    height: 400px;
+}
+
+/* sih2019 */
+
+.reach-box-stu-reachedSIH2019 {
+    margin: 0 -82px 0 0;
+    width: 100%;
+    border-right: none;
+}
+.nodal-center2SIH2019 {
+    border-bottom: none;
+    padding: 0 0 20px 20px;
+}
+.brd-right-bottom-sec1:last-child {
+    border-right: none;
+    height: auto;
+    padding: 0;
+    border-bottom: none;
+}
+section.nationwide-response {
+    padding: 50px 0px 20px;
+	overflow: hidden;
+}
+p.finale-contentSIH2019 {
+    margin-top: 30px;
+}
+.winner-box-1 p {
+    text-align: left;
+}
+.slider2019SIH .slick-slide {
+    height: 400px;
+}
+.sih2019CusHeading h2 {
+    font-size: 26px;
+}
+.nodal-center-no-bdr {
+    border-bottom: 2px solid #ffffff45;
+}
+
+/* sih2019Hard */
+.col-md-4.brd-right-bottom-sec.brd-right-bottom-secNoBdr {
+    border-bottom: none;
+}
+p.finale-contentSIH2019Hard {
+    margin: 30px 0 20px 0;
+}
+.slidersih2019Hard .slick-slide {
+    height: 400px;
+}
+.reach-box-stu-reached.reach-box-stu-reachedsih2019Hard {
+    border-right: none;
+}
+
+/* importantResources */
+
+.banner-bottom-count-ler-res {
+    display: none;
+}
+h3.learning-resource-ban-head {
+    padding: 0;
+    line-height: 26px;
+    margin-top: 0;
+}
+.banner-bottom-color-ler-res {
+    top: 20px;
+}
+.bg-wht {
+    padding: 10px 0 0 0;
+}
+.imp-top-head-ler-ser {
+    margin: 0 0 30px 0;
+}
+.reach-box-ler-res {
+    border-bottom: 4px solid #d6d6d3;
+    padding: 0 0px 0 0px;
+    margin: 0 0 20px 0;
+    border-right: none;
+}
+.icon-box-ler-res img {
+    position: absolute;
+    top: -80px;
+    right: 10px;
+    width: 24%;
+}
+.icon-box-ler-res-certi img {
+    position: absolute;
+    top: 21px;
+    right: 3px;
+    width: 26%;
+}
+section.banner-bottom-counter {
+    padding: 0 0 60px 0;
+}
+
+/* videoPrototypes */
+
+h3.message {
+    padding: 0;
+    line-height: 26px;
+    text-shadow: 0 0px 10px rgba(0, 0, 0, 0.5);
+}
+.reach-box-video-prototype {
+    padding: 0;
+    border-right: none;
+}
+.icon-box-video-prototype img {
+    width: auto;
+    position: absolute;
+    top: -100px;
+    right: -40px;
+}
+.nodal-center-vdplyer {
+    padding: 0;
+}
+.brd-right-bottom-vdplyer {
+    border-right: none;
+    /* height: 120px; */
+}
+.videoPrototypesSlideCust .slick-slide {
+    height: 400px;
+}
+section.leaders-talk {
+    background-color: #002449;
+    padding: 60px 0 60px 0;
+}
+.banner-bottom-color-news-update {
+    top: -40px;
+    padding: 40px 10px 70px 10px;
+}
+.gallery-box iframe {
+    width: 100%;
+    margin: 30px 0 0 0;
+}
+.new-med-top img{
+    width: 50%;
+}
+.new-med-top2 img{
+    width: 20%;
+}
+section#speech-interview .container-fluid {
+    margin: 0;
+    padding: 0;
+}
+.sih-2017-tabs-nm .tab-content>.active {
+    padding: 0 !important;
+}
+.sliderMediaandNews .slick-slide {
+    display: block;
+    margin-right: 0px;
+    background: #fff;
+    padding: 40px 0px;
+    text-align: center;
+    height: 350px;
+    margin-left: 0px;
+}
+.gallery-box-ler-res-nm{
+    width: 290px !important;
+}
+.share-box {
+    border: 1px solid #929292;
+    border-radius: 0px;
+    padding: 2px 2px;
+    position: relative;
+    right: 0;
+    display: block;
+}
+.like-box {
+    border: 1px solid #929292;
+    border-radius: 1px;
+    padding: 2px 2px;
+    position: relative;
+    right: 0;
+}
+.slider1NewsAndMedia .slick-slide {
+    display: block;
+    margin-right: 0px;
+    background: #fff;
+    padding: 40px 0px;
+    text-align: center;
+    height: 350px;
+    margin-left: 0px;
+}
+
+/* mediaSocialMedia */
+
+h3.social-media-heading {
+    padding: 0;
+    line-height: 26px;
+    margin-top: 0;
+}
+.smt-content h2 {
+    letter-spacing: 0px; 
+    font-size: 24px;
+}
+.social-media-list ul li {
+    display: inline;
+    padding: 0 25px;
+}
+.twitterslideMediaSocial .slick-slide {
+    display: block;
+    margin-right: 0px;
+    background: #fff;
+    padding: 40px 0px;
+    text-align: center;
+    height: auto;
+    margin-left: 0px;
+}
+
+/* testimonials */
+
+h3.sihTestimonial {
+    padding: 0;
+    line-height: 26px;
+    margin-top: 20px;
+}
+.testiMain {
+    box-shadow: 0 6px 12px rgba(0,0,0,.175);
+    padding: 5px 10px 0 10px;
+    border-radius: 5px;
+    margin: 0 0 30px 0;
+    background: #fff;
+}
+.testiPara {
+    padding: 10px 20px 10px 0px;
+    text-align: justify;
+}
+.leader-talk-heading h2 {
+    font-size: 28px;
+}
+
+/* Messages */
+
+.chairperson-video iframe {
+    width: 100%;
+}
+.chai-say-box-front {
+    top: 30px;
+    padding: 50px 10px 0px;
+}
+.chai-say-box-bg {
+    display: none;
+}
+.message-say-head h2 {
+    color: #fff;
+    padding: 0;
+    font-family: montserratlight;
+    font-size: 36px;
+    margin: 0 0 50px 0;
+}
+section.messages-say {
+    text-align: center;
+    background-color: #002449;
+    padding: 0px 0 50px 0;
+}
+.message-say-bg {
+    padding: 70px 10px;
+}
+.introSoftResult {
+    overflow-y: scroll;
+}
+
+/* faqs */
+
+h3.faq-heading {
+    padding: 0;
+    line-height: 26px;
+    text-shadow: 0 0px 10px rgba(0, 0, 0, 0.5);
+}
+section.faq-top-heading img {
+    width: 50%;
+    float: none;
+    display: block;
+    margin: 0 auto;
+}
+section.faq-top-heading {
+    padding: 50px 0 0;
+}
+.row.spoc-cus-bg {
+    padding: 40px 0px 40px 0px;
+}
+.card-body.custom-card-body {
+    padding: 0 20px 50px 20px;
+}
+.spoc-cus-bg {
+    padding: 40px 0 0;
+}
+.faq-spoc-right-but {
+    float: none;
+    display: block;
+    margin: 0 0 20px 0;
+}
+.team-right-but {
+    float: none;
+    display: block;
+    margin: 0 0 20px 0;
+}
+.card .card-body {
+    padding: 0 20px 50px 20px;
+}
+h3.contact-sih {
+    padding: 0;
+    line-height: 26px;
+    margin-top: 0;
+}
+.contact-box-right {
+    padding: 60px 0px 60px 0px;
+}
+.banner-bottom-count-abt-contact {
+    display: none;
+}
+.carousel.slide.mt-5.pt-5 {
+    margin-top: 0 !important;
+}
+.psBox h2 {
+    font-size: 16px;
+    padding: 20px 0 20px 0;
+}
+.psBox {
+    height: 100%;
+    background-size: cover;
+}
+section.topbannerPS {
+    padding: 30px 0 30px 0;
+	height: auto;
+}
+.carousel.slide.mt-5.pt-4 {
+    /* padding-top: 0 !important; */
+    margin-top: 0 !important;
+}
+.col-md-4.bdr-right {
+    border-bottom: 1px solid #ffffff57;
+	border-right: none;
+    padding: 10px 0 10px 0px;
+}
+.col-md-4.topMob {
+    padding: 10px 0 0 0;
+}
+img.newGIFImg1 {
+    width: 16%;
+}
+.row.organizing-head.awsOrganizing {
+    padding: 20px 0px 20px 0px;
+}
+.topViewContent {
+    line-height: 32px;
+    margin: 0 0 10px 0;
+}
+img.preScreSIHSR {
+    height: 150px !important;
+}
+}
+
+@media only screen and (max-device-width: 375px)  {
+h3.imp-team {
+    padding: 0 40px;
+    line-height: 1;
+    margin-top: 15px;
+    text-shadow: 0 0px 10px rgb(0 0 0 / 50%);
+}
+.themeImg2022 img {
+    width: 50%;
+    margin: 0 auto;
+}
+.themesTitle h3 {
+    margin: 0 0 0 14px;
+}
+
+	a.carousel-control-prev.bannerSlide {
+    top: 40px;
+}
+a.carousel-control-prev.bannerSlide i {
+    font-size: 30px;
+    padding: 0px 10px;
+}
+a.carousel-control-next.bannerSlide {
+    top: 40px;
+}
+a.carousel-control-next.bannerSlide i {
+    font-size: 30px;
+    padding: 0 10px;
+}
+	.modal-dialog {
+    max-width: 100%;
+}
+.navbar-brand {
+	width: 60%;
+}
+a.navbar-brand img {
+	    width: 43%;
+    position: relative;
+    top: 0px;
+    left: -10px;
+}
+.banner-bottom-color-div {
+	top: 0;
+}
+[data-toggle="collapse"].res-navbar.collapsed:after {
+    transform: rotate(0deg);
+    display: none;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    content: "\f067";
+}
+[data-toggle="collapse"].res-navbar:after {
+    display: none;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    content: "\f068";
+    transition: all linear 0.25s;
+    float: right;
+    background: #5d73d1;
+    color: #fff;
+    padding: 11px 13px;
+    border-radius: 50%;
+}
+.navbar-dark .navbar-toggler {
+    color: rgba(255, 255, 255, 0.5);
+    border-color: #6aabdd;
+}
+.navbar-toggler {
+    padding: 2px 8px;
+    font-size: 1.25rem;
+    line-height: 1;
+    background-color: #002449;
+    border: 1px solid #fff;
+    border-radius: 0.25rem;
+}
+.banner-bottom-count {
+	display: none;
+}
+.carousel-indicators {
+	bottom: -5%;
+}
+.carousel-indicators li {
+	width: 6px;
+    height: 6px;
+}
+.banner-bottom-top h3 {
+    color: #f75700;
+    font-weight: 700;
+    padding: 0 5%;
+    line-height: 28px;
+    font-size: 26px;
+    margin: 0 0 30px 0;
+    font-family: montserratbold;
+}
+.count-div h4 {
+	font-size: 18px;
+}
+.count-div p {
+	font-size: 14px;
+	line-height: 18px;
+}
+.count-div2 {
+	border-right: none;
+}
+.count-div2 h4 {
+	font-size: 18px;
+}
+.count-div2 p {
+	font-size: 14px;
+}
+.count-div {
+	padding: 10px 20px 10px 0;
+	border: none;
+}
+.count-div3 {
+    padding: 10px 17px 10px 0;
+	border: none;
+}
+.count-div3 h4 {
+	font-size: 18px;
+}
+.count-div3 p {
+	font-size: 14px;
+}
+.count-div4 h4 {
+	font-size: 18px;
+}
+.count-div4 p {
+	font-size: 14px;
+}
+.call-us-now {
+    position: fixed;
+    right: -88px;
+    bottom: 355px;
+    padding: 0;
+}
+.call-us-now img {
+    width: 50%;
+    padding: 0;
+}
+.smt-ind-hack h3 {
+	font-size: 22px;
+    line-height: 24px;
+}
+.smt-ind-hack span {
+	font-size: 13px;
+}
+.smt-ind-hack {
+    text-align: center;
+    margin: 20px 0 10px 0;
+}
+.sih-five {
+	height: 240px;
+    margin-bottom: 30px;
+}
+.sih-five h3 {
+    font-size: 18px;
+}
+.sih-five p {
+	font-size: 14px;
+}
+.tab-box h2 {
+    color: #fff;
+    font-weight: 700;
+    margin: 10px 0 0 0;
+    font-family: montserratbold;
+    font-size: 26px;
+    width: 100%;
+    line-height: 27px;
+}
+.tab-box span {
+	font-size: 14px;
+}
+.back-bg {
+	display: none;
+}
+.slick-initialized .slick-slide {
+    display: block;
+    margin-right: 0px;
+    background: #fff;
+    padding: 40px 0px;
+    text-align: center;
+    height: 350px;
+    margin-left: 0px;
+}
+.sih-theme-heading h2 {
+    font-size: 26px;
+}
+.sih-theme-heading span {
+    font-size: 14px;
+}
+.slick-slide h3 {
+    font-size: 18px;
+}
+.slick-slide h3 {
+    font-size: 18px;
+}
+.sih-theme-heading p {
+	font-size: 14px;
+}
+.slick-slide p {
+	font-size: 15px;
+	padding: 0px 10px;
+}
+.slick-slide img {
+    width: 100%;
+    padding: 0 0 30px 0;
+}
+.nav-top {
+    height: 40px;
+}
+.newAnnBg {
+    width: 207px;
+    height: 145px;
+    border-radius: 5px;
+}
+.newAnnBg h3 {
+    font-size: 14px;
+    padding: 10px 0 0 10px;
+}
+.newAnnBg p {
+    font-size: 14px;
+    padding: 34px 0 0 10px;
+    line-height: 20px;
+}
+.newAnnBg a {
+    font-size: 12px;
+    bottom: 12px;
+    left: 10px;
+    padding: 4px 10px;
+    border-radius: 2px;
+}
+.nav-top .hamburger {
+    font-size: 30px;
+}
+#mySidenav a {
+    right: -281px;
+}
+
+/******************** New ********************/
+
+#register {
+    top: 200px;
+}
+#dateRegister {
+    top: 260px;
+}
+#registerCisco {
+    top: 200px;
+}
+#mySidenavCisco a {
+    left: -200px;
+}
+.whatIsSIH-head h3 {
+    font-size: 26px;
+}
+.landingPageVideo {
+    top: 0px;
+}
+.part-heading p {
+    font-size: 26px;
+    line-height: 32px;
+}
+.part-heading h2 {
+    font-size: 26px;
+}
+.footerHeadingLandingPage h2 {
+	padding: 0px;
+}
+.footer-heading h2 {
+	font-size: 26px;
+	margin: 0 0 20px 0;
+	padding: 0px;
+}
+.footer-heading a {
+	padding: 12px 45px;
+}
+ul.follow-box-copyright li {
+	margin: 0 20px 0 0;
+}
+.row.paddLandingPage {
+    padding: 20px 0px 20px 0px;
+}
+.follow-box.flo-box {
+    float: none;
+    margin: 20px 0 10px 0;
+    position: relative;
+    top: -14px;
+}
+li.app-down {
+    margin: 10px 0 0 0;
+}
+.follow-box p {
+    font-size: 14px;
+    position: relative;
+    /* bottom: -180px; */
+    bottom: -145px; 
+	margin: 0;
+}
+section.organizing-committee-abt {
+    background-color: #002449;
+    padding: 30px 0 0;
+}
+
+
+/* SIH2020 */
+
+h3.about-sih {
+    padding: 0 23px;
+    line-height: 26px;
+    text-shadow: 0 0px 10px rgba(0, 0, 0, 0.5);
+}
+.carousel-caption h3 {
+    font-size: 25px;
+}
+.carousel-caption {
+    position: absolute;
+    right: 10%;
+    top: 16%;
+    bottom: 20px;
+    left: 10%;
+    z-index: 10;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #fff;
+    text-align: center;
+}
+.carousel-caption h5 {
+    font-size: 13px;
+}
+.abt-stu {
+    border-right: none;
+}
+.banner-bottom-color-div-abt {
+    padding: 50px 20px;
+}
+.video-box iframe {
+    width: 100% !important;
+    height: 150px;
+}
+.video-box p {
+    margin: 10px 0 5px 0;
+}
+.process-flow {
+    padding: 80px 10px;
+}
+.tab-card-header > .nav-tabs > li > a {
+    padding: 0;
+    font-size: 18px;
+}
+.org-sih-hard-2018 {
+    margin-bottom: 10px;
+}
+.organizing-head {
+    padding: 50px 0px 30px 0px;
+}
+li.mhrdLandingPadd {
+    padding-right: 0;
+}
+ul.logo-first-box li img {
+    float: none;
+    width: 48%;
+    display: inline;
+    height: auto;
+    padding: 0 0 10px 0;
+}
+.organizing-head2 {
+    padding: 0px 0px 30px;
+}
+.partners-box {
+    padding: 0;
+    margin: 0 0 30px 0;
+	border-right: none;
+}
+.partners-box2 {
+    border-right: none;
+    padding: 0;
+    /* border-bottom: 1px solid #d0d0d0; */
+    margin: 0 0 30px 0;
+}
+.organizing-head3 {
+    padding: 0px 0px 50px 0px;
+}
+footer {
+    padding: 20px 0 10px 0;
+}
+.banner-bottom-count-abt {
+    display: none;
+}
+
+/* organisingCommittee */
+
+h3.exe-comittee {
+    padding: 0px 20px 0;
+    line-height: 28px;
+}
+section.exe-committee-box {
+    padding: 30px 0;
+}
+.exe-comm-heading h3 {
+    font-size: 26px;
+}
+.exe-comm-heading {
+    margin: 0 0 30px 0;
+}
+.card.hovercard {
+    height: auto;
+}
+exe-com-bg {
+    padding: 0px 0 30px 0;
+}
+.card.hovercard .avatar img {
+    width: 50%;
+}
+.title span {
+    width: 50px;
+}
+.cards-details-content {
+    padding: 20px 30px 40px 35px;
+}
+.cards-details {
+    padding: 0 0 0 35px;
+}
+.title h3 {
+    left: -30px;
+}
+h3.mohit-gam {
+    position: relative;
+    left: -10px;
+}
+.exe-com-bg {
+    padding: 0;
+}
+
+/* sih2020PS */
+
+h3.prob-statement {
+    padding: 0;
+    line-height: 30px;
+    margin-top: 0px;
+	margin-bottom: 0;
+}
+p.contact-us-para {
+    margin: 0;
+	font-size: 15px;
+}
+.statement-box {
+    padding: 20px 20px;
+}
+.hard {
+    width: 46%;
+    display: block;
+    margin: 30px 0 0 0;
+}
+.soft {
+    display: block;
+    position: absolute;
+    top: -69px;
+    right: 0;
+}
+.soft h3 {
+    font-size: 60px !important;
+}
+.hard h3 {
+    font-size: 60px !important;
+}
+.statement-box h3 {
+    font-size: 30px;
+    margin: 0;
+    text-align: center;
+}
+.statement-box p {
+    margin: 0 0 0px 0;
+    font-size: 17px;
+}
+.row.catBox1 {
+    padding: 10px 0 20px 0;
+    width: 100%;
+}
+.radioButPS {
+    display: inline-block;
+    width: 220px;
+}
+.dataTables_wrapper {
+    width: 100%;
+    overflow-y: scroll;
+}
+h3.sih-2017-heading {
+    padding: 0;
+    line-height: 26px;
+}
+section.impact-box .container.px-5.py-5 {
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+	padding-bottom: 0px !important;
+}
+.icon-box img {
+    display: none;
+}
+.icon-box-smv img {
+    display: none;
+}
+.reach-box {
+    width: 127px;
+}
+.reach-box-stu-reached {
+    margin: 0 -82px 0 0;
+    width: 100%;
+}
+.reach-box-nationwide {
+    margin: 0 -35px 0 0;
+    width: 100%;
+	border-right: none;
+}
+.icon-box-stu-reached img {
+    display: none;
+}
+.icon-box-nationwide img {
+    display: none;
+}
+.icon-box-training img {
+    display: none;
+}
+.nat-wid {
+    position: relative;
+    left: 0;
+}
+.nat-wid-line {
+    position: relative;
+    left: 0;
+}
+.nat-wid-text {
+    position: relative;
+    left: 0;
+}
+.reach-box.reach-boxRes {
+    border-right: none;
+	width: 126px;
+}
+.text-big h3 {
+    font-size: 30px;
+}
+section.impact-box {
+    padding: 50px 0 0;
+	overflow: hidden;
+}
+.brd-right-bottom {
+    border-right: none;
+    height: 120px;
+}
+.nodal-center {
+    padding: 0;
+    width: 100%;
+    display: block;
+}
+.nat-wid-nodel h3 {
+    font-size: 38px;
+}
+.nat-wid-icon img {
+    position: absolute;
+    top: -90px;
+    right: 30px;
+}
+.idea-icon img {
+    position: absolute;
+    top: -100px;
+    right: 30px;
+}
+.ext-pad22017 {
+    padding: 0 0 0 20px !important
+}
+.ext-pad {
+    padding: 0;
+}
+.ext-pad2 {
+    padding: 0;
+}
+.nodal-center2 {
+    border-bottom: none;
+    padding: 0 0 20px 0px;
+}
+.evelau img {
+    position: absolute;
+    top: -70px;
+    right: 20px;
+}
+.stu-sih-ico img {
+    position: absolute;
+    top: -61px;
+    right: 30px;
+}
+.brd-right-bottom-sec {
+    border-bottom: 2px solid #ffffff45;
+    height: 120px;
+	border-right: none;
+	margin-bottom: 10px;
+}
+.response-gap {
+    margin: 10px 0 0 0;
+}
+.winner-box h3 {
+    font-size: 24px;
+}
+section.winners {
+    padding: 50px 0 0;
+}
+section.winners {
+    background-color: #002449;
+    padding: 50px 0 0;
+}
+.gallery-box-slide1 img {
+    width: 30%;
+    padding: 0 0 30px 0;
+}
+.sliderIndex img{
+    width: 30%;
+    padding: 0 0 30px 0;
+}
+section.sih-gallery {
+    background-color: #002449;
+    padding: 50px 0 0px 0;
+}
+.slick-initialized .gallery-box-slide1{
+    display: block;
+    margin-right: 0px;
+    background: #fff;
+    padding: 40px 0px;
+    text-align: center;
+    height: 350px;
+    margin-left: 0px;
+}
+.reach-box-training {
+    padding: 0;
+    margin: 0;
+}
+
+/* sih2018Software */
+
+h3.sih-201888-heading {
+    padding: 0;
+    line-height: 26px;
+}
+.carousel-caption p {
+    font-size: 13px;
+    margin: 10px 0 30px 0;
+}
+p.sih-2018-banner-para {
+    letter-spacing: 2px;
+}
+.icon-box-sih-2018 img {
+    display: none;
+}
+.icon-box-stu-reached-sih-2018 img {
+    display: none;
+}
+.evelau-sih-2018 img {
+    position: absolute;
+    top: -87px;
+    right: 10px;
+}
+.stu-sih-ico-sih-2018 img {
+    position: absolute;
+    top: -70px;
+    right: 30px;
+}
+.stu-sih-ico-sih-20188 img {
+    position: absolute;
+    top: -60px;
+    right: 30px;
+}
+.brd-right-bottom-sih {
+    border-right: none;
+    height: auto;
+}
+.nodal-center-sih {
+    border-bottom: 2px solid #d6d6d3;
+    padding: 0px;
+	margin: 0 0 10px 0;
+}
+.nat-wid-icon-sih-soft img {
+    position: absolute;
+    top: -90px;
+    right: 30px;
+}
+.idea-icon-sih img {
+    position: absolute;
+    top: -130px;
+    right: 25px;
+}
+.idea-icon2018Soft img {
+    position: absolute;
+    top: -100px;
+    right: 30px;
+}
+.response-gap2018Soft {
+    margin: 20px 0 0 0;
+}
+.brd-right-bottom-sec-sih-soft {
+    border-right: none;
+    height: auto;
+    padding: 0;
+}
+.nodal-center22018Soft {
+    border-bottom: 2px solid #d6d6d3;
+    padding: 0px;
+	margin: 0 0 10px 0;
+}
+.brd-right-bottom-sec:last-child {
+    border-right: none;
+    height: auto;
+    padding: 0;
+}
+.evelau-sih-2018Soft img {
+    position: absolute;
+    top: -107px;
+    right: 30px;
+}
+.text-content-sih1 p {
+    padding: 0 10px 0px 10px;
+}
+.stu-sih-ico-sih-2018-softt img {
+    position: absolute;
+    top: -110px;
+    right: 30px;
+}
+.finale-content {
+    margin: 0;
+}
+section.content-normal {
+    padding: 70px 0 0;
+}
+.lead-tlk-bg {
+    height: 500px;
+}
+section.leaders-talk .container-fluid {
+    padding: 0 0 30px 0;
+}
+.sliderIndex2018Soft .slick-slide {
+    display: block;
+    margin-right: 0px;
+    background: #fff;
+    padding: 40px 0px;
+    text-align: center;
+    height: 350px;
+    margin-left: 0px;
+}
+section.sih-2017-tabs2018Soft .container-fluid {
+    padding: 0;
+    margin: 0 !important;
+}
+ul.logo-first-box2018Soft li img {
+    float: none;
+    width: 48%;
+    display: inline;
+    height: auto;
+    padding: 0 0 10px 0;
+}
+a.footerHeading2018SoftBut {
+    /* margin: 0 0 30px 0; */
+    display: block;
+}
+
+/* sih2018Hardware */
+
+.reach-box2018Hardware {
+    border-right: none;
+}
+.finale-content2018Hardware {
+    margin: 30px 0 0 0;
+}
+.sih-gallery .slick-dots {
+    top: 0px;
+    padding: 0 20px;
+}
+ul.partners-1 li img {
+    width: 35%;
+    margin: 0 20px;
+}
+.slick-initialized2018Hardware .slick-slide {
+    display: block;
+    margin-right: 30px;
+    background: #fff;
+    padding: 40px 0px;
+    text-align: center;
+    height: 400px;
+    margin-left: 30px;
+}
+section.sih-theme-past-event .container-fluid {
+    margin: 0;
+}
+section.sih-2017-tabs .container-fluid {
+    margin: 0;
+	padding: 0;
+}
+.organizing-head {
+    top: 0;
+}
+.organizing-head2 {
+    top: 0;
+}
+.organizing-head3 {
+    top: 0;
+}
+section.sih-2017-tabs {
+    padding: 10px 0 0px 0;
+    background-color: #fff;
+}
+section.sih-theme-past-event {
+    height: auto;
+}
+.row.footer-line {
+    border-top: none;
+    top: -29px;
+}
+.slidesoft2018Software .slick-slide {
+    height: 400px;
+}
+
+/* sih2019 */
+
+.reach-box-stu-reachedSIH2019 {
+    margin: 0 -82px 0 0;
+    width: 100%;
+    border-right: none;
+}
+.nodal-center2SIH2019 {
+    border-bottom: none;
+    padding: 0 0 20px 20px;
+}
+.brd-right-bottom-sec1:last-child {
+    border-right: none;
+    height: auto;
+    padding: 0;
+    border-bottom: none;
+}
+section.nationwide-response {
+    padding: 50px 0px 20px;
+	overflow: hidden;
+}
+p.finale-contentSIH2019 {
+    margin-top: 30px;
+}
+.winner-box-1 p {
+    text-align: left;
+}
+.slider2019SIH .slick-slide {
+    height: 400px;
+}
+.sih2019CusHeading h2 {
+    font-size: 26px;
+}
+.nodal-center-no-bdr {
+    border-bottom: 2px solid #ffffff45;
+}
+
+/* sih2019Hard */
+.col-md-4.brd-right-bottom-sec.brd-right-bottom-secNoBdr {
+    border-bottom: none;
+}
+p.finale-contentSIH2019Hard {
+    margin: 30px 0 20px 0;
+}
+.slidersih2019Hard .slick-slide {
+    height: 400px;
+}
+.reach-box-stu-reached.reach-box-stu-reachedsih2019Hard {
+    border-right: none;
+}
+
+/* importantResources */
+
+.banner-bottom-count-ler-res {
+    display: none;
+}
+h3.learning-resource-ban-head {
+    padding: 0;
+    line-height: 26px;
+    margin-top: 0;
+}
+.banner-bottom-color-ler-res {
+    top: 20px;
+}
+.bg-wht {
+    padding: 10px 0 0 0;
+}
+.imp-top-head-ler-ser {
+    margin: 0 0 30px 0;
+}
+.reach-box-ler-res {
+    border-bottom: 4px solid #d6d6d3;
+    padding: 0 0px 0 0px;
+    margin: 0 0 20px 0;
+    border-right: none;
+}
+.icon-box-ler-res img {
+    position: absolute;
+    top: -80px;
+    right: 10px;
+    width: 24%;
+}
+.icon-box-ler-res-certi img {
+    position: absolute;
+    top: 21px;
+    right: 3px;
+    width: 26%;
+}
+section.banner-bottom-counter {
+    padding: 0 0 60px 0;
+}
+
+/* videoPrototypes */
+
+h3.message {
+    padding: 0;
+    line-height: 26px;
+    text-shadow: 0 0px 10px rgba(0, 0, 0, 0.5);
+}
+.reach-box-video-prototype {
+    padding: 0;
+    border-right: none;
+}
+.icon-box-video-prototype img {
+    width: auto;
+    position: absolute;
+    top: -100px;
+    right: -40px;
+}
+.nodal-center-vdplyer {
+    padding: 0;
+}
+.brd-right-bottom-vdplyer {
+    border-right: none;
+    /* height: 120px; */
+}
+.videoPrototypesSlideCust .slick-slide {
+    height: 400px;
+}
+section.leaders-talk {
+    background-color: #002449;
+    padding: 60px 0 60px 0;
+}
+.banner-bottom-color-news-update {
+    top: -40px;
+    padding: 40px 10px 70px 10px;
+}
+.gallery-box iframe {
+    width: 100%;
+    margin: 30px 0 0 0;
+}
+.new-med-top img{
+    width: 50%;
+}
+.new-med-top2 img{
+    width: 20%;
+}
+section#speech-interview .container-fluid {
+    margin: 0;
+    padding: 0;
+}
+.sih-2017-tabs-nm .tab-content>.active {
+    padding: 0 !important;
+}
+.sliderMediaandNews .slick-slide {
+    display: block;
+    margin-right: 0px;
+    background: #fff;
+    padding: 40px 0px;
+    text-align: center;
+    height: 350px;
+    margin-left: 0px;
+}
+.gallery-box-ler-res-nm{
+    width: 290px !important;
+}
+.share-box {
+    border: 1px solid #929292;
+    border-radius: 0px;
+    padding: 2px 2px;
+    position: relative;
+    right: 0;
+    display: block;
+}
+.like-box {
+    border: 1px solid #929292;
+    border-radius: 1px;
+    padding: 2px 2px;
+    position: relative;
+    right: 0;
+}
+.slider1NewsAndMedia .slick-slide {
+    display: block;
+    margin-right: 0px;
+    background: #fff;
+    padding: 40px 0px;
+    text-align: center;
+    height: 350px;
+    margin-left: 0px;
+}
+
+/* mediaSocialMedia */
+
+h3.social-media-heading {
+    padding: 0;
+    line-height: 26px;
+    margin-top: 0;
+}
+.smt-content h2 {
+    letter-spacing: 0px; 
+    font-size: 24px;
+}
+.social-media-list ul li {
+    display: inline;
+    padding: 0 25px;
+}
+.twitterslideMediaSocial .slick-slide {
+    display: block;
+    margin-right: 0px;
+    background: #fff;
+    padding: 40px 0px;
+    text-align: center;
+    height: auto;
+    margin-left: 0px;
+}
+
+/* testimonials */
+
+h3.sihTestimonial {
+    padding: 0;
+    line-height: 26px;
+    margin-top: 20px;
+}
+.testiMain {
+    box-shadow: 0 6px 12px rgba(0,0,0,.175);
+    padding: 5px 10px 0 10px;
+    border-radius: 5px;
+    margin: 0 0 30px 0;
+    background: #fff;
+}
+.testiPara {
+    padding: 10px 20px 10px 0px;
+    text-align: justify;
+}
+.leader-talk-heading h2 {
+    font-size: 28px;
+}
+
+/* Messages */
+
+.chairperson-video iframe {
+    width: 100%;
+}
+.chai-say-box-front {
+    top: 30px;
+    padding: 50px 10px 0px;
+}
+.chai-say-box-bg {
+    display: none;
+}
+.message-say-head h2 {
+    color: #fff;
+    padding: 0;
+    font-family: montserratlight;
+    font-size: 36px;
+    margin: 0 0 50px 0;
+}
+section.messages-say {
+    text-align: center;
+    background-color: #002449;
+    padding: 0px 0 50px 0;
+}
+.message-say-bg {
+    padding: 70px 10px;
+}
+.introSoftResult {
+    overflow-y: scroll;
+}
+
+/* faqs */
+
+h3.faq-heading {
+    padding: 0;
+    line-height: 26px;
+    text-shadow: 0 0px 10px rgba(0, 0, 0, 0.5);
+}
+section.faq-top-heading img {
+    width: 50%;
+    float: none;
+    display: block;
+    margin: 0 auto;
+}
+section.faq-top-heading {
+    padding: 50px 0 0;
+}
+.row.spoc-cus-bg {
+    padding: 40px 0px 40px 0px;
+}
+.card-body.custom-card-body {
+    padding: 0 20px 50px 20px;
+}
+.spoc-cus-bg {
+    padding: 40px 0 0;
+}
+.faq-spoc-right-but {
+    float: none;
+    display: block;
+    margin: 0 0 20px 0;
+}
+.team-right-but {
+    float: none;
+    display: block;
+    margin: 0 0 20px 0;
+}
+.card .card-body {
+    padding: 0 20px 50px 20px;
+}
+h3.contact-sih {
+    padding: 0;
+    line-height: 26px;
+    margin-top: 0;
+}
+.contact-box-right {
+    padding: 60px 0px 60px 0px;
+}
+.banner-bottom-count-abt-contact {
+    display: none;
+}
+.carousel.slide.mt-5.pt-5 {
+    margin-top: 0 !important;
+}
+.psBox h2 {
+    font-size: 16px;
+    padding: 20px 0 20px 0;
+}
+.psBox {
+    height: 100%;
+    background-size: cover;
+}
+section.topbannerPS {
+    padding: 30px 0 30px 0;
+	height: auto;
+}
+.carousel.slide.mt-5.pt-4 {
+    /* padding-top: 0 !important; */
+    margin-top: 0 !important;
+}
+.col-md-4.bdr-right {
+    border-bottom: 1px solid #ffffff57;
+	border-right: none;
+    padding: 10px 0 10px 0px;
+}
+.col-md-4.topMob {
+    padding: 10px 0 0 0;
+}
+img.newGIFImg1 {
+    width: 16%;
+}
+.row.organizing-head.awsOrganizing {
+    padding: 20px 0px 20px 0px;
+}
+.topViewContent {
+    line-height: 32px;
+    margin: 0 0 10px 0;
+}
+img.preScreSIHSR {
+    height: 150px !important;
+}
+}
+
+@media only screen and (max-device-width: 320px)  {
+h3.imp-team {
+    padding: 0 40px;
+    line-height: 1;
+    margin-top: 15px;
+    text-shadow: 0 0px 10px rgb(0 0 0 / 50%);
+}
+.themeImg2022 img {
+    width: 50%;
+    margin: 0 auto;
+}
+.themesTitle h3 {
+    margin: 0 0 0 14px;
+}
+
+.navbar-brand {
+	width: 60%;
+}
+a.navbar-brand img {
+	    width: 43%;
+    position: relative;
+    top: 0px;
+    left: -10px;
+}
+.banner-bottom-color-div {
+	top: 0;
+}
+[data-toggle="collapse"].res-navbar.collapsed:after {
+    transform: rotate(0deg);
+    display: none;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    content: "\f067";
+}
+[data-toggle="collapse"].res-navbar:after {
+    display: none;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    content: "\f068";
+    transition: all linear 0.25s;
+    float: right;
+    background: #5d73d1;
+    color: #fff;
+    padding: 11px 13px;
+    border-radius: 50%;
+}
+.navbar-dark .navbar-toggler {
+    color: rgba(255, 255, 255, 0.5);
+    border-color: #6aabdd;
+}
+.navbar-toggler {
+    padding: 2px 8px;
+    font-size: 1.25rem;
+    line-height: 1;
+    background-color: #002449;
+    border: 1px solid #fff;
+    border-radius: 0.25rem;
+}
+.banner-bottom-count {
+	display: none;
+}
+.carousel-indicators {
+	bottom: -5%;
+}
+.carousel-indicators li {
+	width: 6px;
+    height: 6px;
+}
+.banner-bottom-top h3 {
+    color: #f75700;
+    font-weight: 700;
+    padding: 0 5%;
+    line-height: 28px;
+    font-size: 26px;
+    margin: 0 0 30px 0;
+    font-family: montserratbold;
+}
+.count-div h4 {
+	font-size: 18px;
+}
+.count-div p {
+	font-size: 14px;
+	line-height: 18px;
+}
+.count-div2 {
+	border-right: none;
+}
+.count-div2 h4 {
+	font-size: 18px;
+}
+.count-div2 p {
+	font-size: 14px;
+}
+.count-div {
+	padding: 10px 20px 10px 0;
+	border: none;
+}
+.count-div3 {
+    padding: 10px 17px 10px 0;
+	border: none;
+}
+.count-div3 h4 {
+	font-size: 18px;
+}
+.count-div3 p {
+	font-size: 14px;
+}
+.count-div4 h4 {
+	font-size: 18px;
+}
+.count-div4 p {
+	font-size: 14px;
+}
+.call-us-now {
+    position: fixed;
+    right: -88px;
+    bottom: 355px;
+    padding: 0;
+}
+.call-us-now img {
+    width: 50%;
+    padding: 0;
+}
+.smt-ind-hack h3 {
+	font-size: 22px;
+    line-height: 24px;
+}
+.smt-ind-hack span {
+	font-size: 13px;
+}
+.smt-ind-hack {
+    text-align: center;
+    margin: 20px 0 10px 0;
+}
+.sih-five {
+	height: 240px;
+    margin-bottom: 30px;
+}
+.sih-five h3 {
+    font-size: 18px;
+}
+.sih-five p {
+	font-size: 14px;
+}
+.tab-box h2 {
+    color: #fff;
+    font-weight: 700;
+    margin: 10px 0 0 0;
+    font-family: montserratbold;
+    font-size: 26px;
+    width: 100%;
+    line-height: 27px;
+}
+.tab-box span {
+	font-size: 14px;
+}
+.back-bg {
+	display: none;
+}
+.slick-initialized .slick-slide {
+    display: block;
+    margin-right: 0px;
+    background: #fff;
+    padding: 40px 0px;
+    text-align: center;
+    height: 350px;
+    margin-left: 0px;
+}
+.sih-theme-heading h2 {
+    font-size: 26px;
+}
+.sih-theme-heading span {
+    font-size: 14px;
+}
+.slick-slide h3 {
+    font-size: 18px;
+}
+.slick-slide h3 {
+    font-size: 18px;
+}
+.sih-theme-heading p {
+	font-size: 14px;
+}
+.slick-slide p {
+	font-size: 15px;
+	padding: 0px 10px;
+}
+.slick-slide img {
+    width: 100%;
+    padding: 0 0 30px 0;
+}
+.nav-top {
+    height: 40px;
+}
+.newAnnBg {
+    width: 207px;
+    height: 145px;
+    border-radius: 5px;
+}
+.newAnnBg h3 {
+    font-size: 14px;
+    padding: 10px 0 0 10px;
+}
+.newAnnBg p {
+    font-size: 14px;
+    padding: 34px 0 0 10px;
+    line-height: 20px;
+}
+.newAnnBg a {
+    font-size: 12px;
+    bottom: 12px;
+    left: 10px;
+    padding: 4px 10px;
+    border-radius: 2px;
+}
+.nav-top .hamburger {
+    font-size: 30px;
+}
+#mySidenav a {
+    right: -281px;
+}
+
+/******************** New ********************/
+
+#register {
+    top: 200px;
+}
+#dateRegister {
+    top: 260px;
+}
+#registerCisco {
+    top: 200px;
+}
+#mySidenavCisco a {
+    left: -200px;
+}
+.whatIsSIH-head h3 {
+    font-size: 26px;
+}
+.landingPageVideo {
+    top: 0px;
+}
+.part-heading p {
+    font-size: 26px;
+    line-height: 32px;
+}
+.part-heading h2 {
+    font-size: 26px;
+}
+.footerHeadingLandingPage h2 {
+	padding: 0px;
+}
+.footer-heading h2 {
+	font-size: 26px;
+	margin: 0 0 20px 0;
+	padding: 0px;
+}
+.footer-heading a {
+	padding: 12px 45px;
+}
+ul.follow-box-copyright li {
+	margin: 0 20px 0 0;
+}
+.row.paddLandingPage {
+    padding: 20px 0px 20px 0px;
+}
+.follow-box.flo-box {
+    float: right;
+    margin: 20px 0 10px 0;
+    position: relative;
+    top: -48px;
+}
+li.app-down {
+    margin: 10px 0 0 0;
+}
+.follow-box p {
+    font-size: 14px;
+    position: relative;
+    bottom: -190px;
+	margin: 0;
+}
+section.organizing-committee-abt {
+    background-color: #002449;
+    padding: 30px 0 0;
+}
+
+
+/* SIH2020 */
+
+h3.about-sih {
+    padding: 0 23px;
+    line-height: 26px;
+    text-shadow: 0 0px 10px rgba(0, 0, 0, 0.5);
+}
+.carousel-caption h3 {
+    font-size: 25px;
+}
+.carousel-caption {
+    position: absolute;
+    right: 10%;
+    top: 16%;
+    bottom: 20px;
+    left: 10%;
+    z-index: 10;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #fff;
+    text-align: center;
+}
+.carousel-caption h5 {
+    font-size: 13px;
+}
+.abt-stu {
+    border-right: none;
+}
+.banner-bottom-color-div-abt {
+    padding: 50px 20px;
+}
+.video-box iframe {
+    width: 250px !important;
+    height: 150px;
+}
+.video-box p {
+    margin: 10px 0 5px 0;
+}
+.process-flow {
+    padding: 80px 10px;
+}
+.tab-card-header > .nav-tabs > li > a {
+    padding: 0;
+    font-size: 18px;
+}
+.org-sih-hard-2018 {
+    margin-bottom: 10px;
+}
+.organizing-head {
+    padding: 50px 0px 30px 0px;
+}
+li.mhrdLandingPadd {
+    padding-right: 0;
+}
+ul.logo-first-box li img {
+    float: none;
+    width: 48%;
+    display: inline;
+    height: auto;
+    padding: 0 0 10px 0;
+}
+.organizing-head2 {
+    padding: 0px 0px 30px;
+}
+.partners-box {
+    padding: 0;
+    margin: 0 0 30px 0;
+	border-right: none;
+}
+.partners-box2 {
+    border-right: none;
+    padding: 0;
+    /* border-bottom: 1px solid #d0d0d0; */
+    margin: 0 0 30px 0;
+}
+.organizing-head3 {
+    padding: 0px 0px 50px 0px;
+}
+footer {
+    padding: 20px 0 10px 0;
+}
+.banner-bottom-count-abt {
+    display: none;
+}
+
+/* organisingCommittee */
+
+h3.exe-comittee {
+    padding: 0px 20px 0;
+    line-height: 28px;
+}
+section.exe-committee-box {
+    padding: 30px 0;
+}
+.exe-comm-heading h3 {
+    font-size: 26px;
+}
+.exe-comm-heading {
+    margin: 0 0 30px 0;
+}
+.card.hovercard {
+    height: auto;
+}
+exe-com-bg {
+    padding: 0px 0 30px 0;
+}
+.card.hovercard .avatar img {
+    width: 50%;
+}
+.title span {
+    width: 50px;
+}
+.cards-details-content {
+    padding: 20px 30px 40px 35px;
+}
+.cards-details {
+    padding: 0 0 0 35px;
+}
+.title h3 {
+    left: -30px;
+}
+h3.mohit-gam {
+    position: relative;
+    left: -10px;
+}
+.exe-com-bg {
+    padding: 0;
+}
+
+/* sih2020PS */
+
+h3.prob-statement {
+    padding: 0;
+    line-height: 30px;
+    margin-top: 0px;
+	margin-bottom: 0;
+}
+p.contact-us-para {
+    margin: 0;
+	font-size: 15px;
+}
+.statement-box {
+    padding: 20px 20px;
+}
+.hard {
+    width: 46%;
+    display: block;
+    margin: 30px 0 0 0;
+}
+.soft {
+    display: block;
+    position: absolute;
+    top: -69px;
+    right: 0;
+}
+.soft h3 {
+    font-size: 60px !important;
+}
+.hard h3 {
+    font-size: 60px !important;
+}
+.statement-box h3 {
+    font-size: 30px;
+    margin: 0;
+    text-align: center;
+}
+.statement-box p {
+    margin: 0 0 0px 0;
+    font-size: 17px;
+}
+.row.catBox1 {
+    padding: 10px 0 20px 0;
+    width: 100%;
+}
+.radioButPS {
+    display: inline-block;
+    width: 220px;
+}
+.dataTables_wrapper {
+    width: 100%;
+    overflow-y: scroll;
+}
+h3.sih-2017-heading {
+    padding: 0;
+    line-height: 26px;
+}
+section.impact-box .container.px-5.py-5 {
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+	padding-bottom: 0px !important;
+}
+.icon-box img {
+    display: none;
+}
+.icon-box-smv img {
+    display: none;
+}
+.reach-box {
+    width: 127px;
+}
+.reach-box-stu-reached {
+    margin: 0 -82px 0 0;
+    width: 100%;
+}
+.reach-box-nationwide {
+    margin: 0 -35px 0 0;
+    width: 100%;
+	border-right: none;
+}
+.icon-box-stu-reached img {
+    display: none;
+}
+.icon-box-nationwide img {
+    display: none;
+}
+.icon-box-training img {
+    display: none;
+}
+.nat-wid {
+    position: relative;
+    left: 0;
+}
+.nat-wid-line {
+    position: relative;
+    left: 0;
+}
+.nat-wid-text {
+    position: relative;
+    left: 0;
+}
+.reach-box.reach-boxRes {
+    border-right: none;
+	width: 126px;
+}
+.text-big h3 {
+    font-size: 30px;
+}
+section.impact-box {
+    padding: 50px 0 0;
+	overflow: hidden;
+}
+.brd-right-bottom {
+    border-right: none;
+    height: 120px;
+}
+.nodal-center {
+    padding: 0;
+    width: 100%;
+    display: block;
+}
+.nat-wid-nodel h3 {
+    font-size: 38px;
+}
+.nat-wid-icon img {
+    position: absolute;
+    top: -90px;
+    right: 30px;
+}
+.idea-icon img {
+    position: absolute;
+    top: -100px;
+    right: 30px;
+}
+.ext-pad22017 {
+    padding: 0 0 0 20px !important
+}
+.ext-pad {
+    padding: 0;
+}
+.ext-pad2 {
+    padding: 0;
+}
+.nodal-center2 {
+    border-bottom: none;
+    padding: 0 0 20px 0px;
+}
+.evelau img {
+    position: absolute;
+    top: -70px;
+    right: 20px;
+}
+.stu-sih-ico img {
+    position: absolute;
+    top: -61px;
+    right: 30px;
+}
+.brd-right-bottom-sec {
+    border-bottom: 2px solid #ffffff45;
+    height: 120px;
+	border-right: none;
+	margin-bottom: 10px;
+}
+.response-gap {
+    margin: 10px 0 0 0;
+}
+.winner-box h3 {
+    font-size: 24px;
+}
+section.winners {
+    padding: 50px 0 0;
+}
+section.winners {
+    background-color: #002449;
+    padding: 50px 0 0;
+}
+.gallery-box-slide1 img {
+    width: 30%;
+    padding: 0 0 30px 0;
+}
+.sliderIndex img{
+    width: 30%;
+    padding: 0 0 30px 0;
+}
+section.sih-gallery {
+    background-color: #002449;
+    padding: 50px 0 0px 0;
+}
+.slick-initialized .gallery-box-slide1{
+    display: block;
+    margin-right: 0px;
+    background: #fff;
+    padding: 40px 0px;
+    text-align: center;
+    height: 350px;
+    margin-left: 0px;
+}
+.reach-box-training {
+    padding: 0;
+    margin: 0;
+}
+
+/* sih2018Software */
+
+h3.sih-201888-heading {
+    padding: 0;
+    line-height: 26px;
+}
+.carousel-caption p {
+    font-size: 13px;
+    margin: 10px 0 30px 0;
+}
+p.sih-2018-banner-para {
+    letter-spacing: 2px;
+}
+.icon-box-sih-2018 img {
+    display: none;
+}
+.icon-box-stu-reached-sih-2018 img {
+    display: none;
+}
+.evelau-sih-2018 img {
+    position: absolute;
+    top: -87px;
+    right: 10px;
+}
+.stu-sih-ico-sih-2018 img {
+    position: absolute;
+    top: -70px;
+    right: 30px;
+}
+.stu-sih-ico-sih-20188 img {
+    position: absolute;
+    top: -60px;
+    right: 30px;
+}
+.brd-right-bottom-sih {
+    border-right: none;
+    height: auto;
+}
+.nodal-center-sih {
+    border-bottom: 2px solid #d6d6d3;
+    padding: 0px;
+	margin: 0 0 10px 0;
+}
+.nat-wid-icon-sih-soft img {
+    position: absolute;
+    top: -90px;
+    right: 30px;
+}
+.idea-icon-sih img {
+    position: absolute;
+    top: -130px;
+    right: 25px;
+}
+.idea-icon2018Soft img {
+    position: absolute;
+    top: -100px;
+    right: 30px;
+}
+.response-gap2018Soft {
+    margin: 20px 0 0 0;
+}
+.brd-right-bottom-sec-sih-soft {
+    border-right: none;
+    height: auto;
+    padding: 0;
+}
+.nodal-center22018Soft {
+    border-bottom: 2px solid #d6d6d3;
+    padding: 0px;
+	margin: 0 0 10px 0;
+}
+.brd-right-bottom-sec:last-child {
+    border-right: none;
+    height: auto;
+    padding: 0;
+}
+.evelau-sih-2018Soft img {
+    position: absolute;
+    top: -107px;
+    right: 30px;
+}
+.text-content-sih1 p {
+    padding: 0 10px 0px 10px;
+}
+.stu-sih-ico-sih-2018-softt img {
+    position: absolute;
+    top: -110px;
+    right: 30px;
+}
+.finale-content {
+    margin: 0;
+}
+section.content-normal {
+    padding: 70px 0 0;
+}
+.lead-tlk-bg {
+    height: 500px;
+}
+section.leaders-talk .container-fluid {
+    padding: 0 0 30px 0;
+}
+.sliderIndex2018Soft .slick-slide {
+    display: block;
+    margin-right: 0px;
+    background: #fff;
+    padding: 40px 0px;
+    text-align: center;
+    height: 350px;
+    margin-left: 0px;
+}
+section.sih-2017-tabs2018Soft .container-fluid {
+    padding: 0;
+    margin: 0 !important;
+}
+ul.logo-first-box2018Soft li img {
+    float: none;
+    width: 48%;
+    display: inline;
+    height: auto;
+    padding: 0 0 10px 0;
+}
+a.footerHeading2018SoftBut {
+    /* margin: 0 0 30px 0; */
+    display: block;
+}
+
+/* sih2018Hardware */
+
+.reach-box2018Hardware {
+    border-right: none;
+}
+.finale-content2018Hardware {
+    margin: 30px 0 0 0;
+}
+.sih-gallery .slick-dots {
+    top: 0px;
+    padding: 0 20px;
+}
+ul.partners-1 li img {
+    width: 35%;
+    margin: 0 20px;
+}
+.slick-initialized2018Hardware .slick-slide {
+    display: block;
+    margin-right: 30px;
+    background: #fff;
+    padding: 40px 0px;
+    text-align: center;
+    height: 400px;
+    margin-left: 30px;
+}
+section.sih-theme-past-event .container-fluid {
+    margin: 0;
+}
+section.sih-2017-tabs .container-fluid {
+    margin: 0;
+	padding: 0;
+}
+.organizing-head {
+    top: 0;
+}
+.organizing-head2 {
+    top: 0;
+}
+.organizing-head3 {
+    top: 0;
+}
+section.sih-2017-tabs {
+    padding: 10px 0 0px 0;
+    background-color: #fff;
+}
+section.sih-theme-past-event {
+    height: auto;
+}
+.row.footer-line {
+    border-top: none;
+    top: -29px;
+}
+.slidesoft2018Software .slick-slide {
+    height: 400px;
+}
+
+/* sih2019 */
+
+.reach-box-stu-reachedSIH2019 {
+    margin: 0 -82px 0 0;
+    width: 100%;
+    border-right: none;
+}
+.nodal-center2SIH2019 {
+    border-bottom: none;
+    padding: 0 0 20px 20px;
+}
+.brd-right-bottom-sec1:last-child {
+    border-right: none;
+    height: auto;
+    padding: 0;
+    border-bottom: none;
+}
+section.nationwide-response {
+    padding: 50px 0px 20px;
+	overflow: hidden;
+}
+p.finale-contentSIH2019 {
+    margin-top: 30px;
+}
+.winner-box-1 p {
+    text-align: left;
+}
+.slider2019SIH .slick-slide {
+    height: 400px;
+}
+.sih2019CusHeading h2 {
+    font-size: 26px;
+}
+.nodal-center-no-bdr {
+    border-bottom: 2px solid #ffffff45;
+}
+
+/* sih2019Hard */
+.col-md-4.brd-right-bottom-sec.brd-right-bottom-secNoBdr {
+    border-bottom: none;
+}
+p.finale-contentSIH2019Hard {
+    margin: 30px 0 20px 0;
+}
+.slidersih2019Hard .slick-slide {
+    height: 400px;
+}
+.reach-box-stu-reached.reach-box-stu-reachedsih2019Hard {
+    border-right: none;
+}
+
+/* importantResources */
+
+.banner-bottom-count-ler-res {
+    display: none;
+}
+h3.learning-resource-ban-head {
+    padding: 0;
+    line-height: 26px;
+    margin-top: 0;
+}
+.banner-bottom-color-ler-res {
+    top: 20px;
+}
+.bg-wht {
+    padding: 10px 0 0 0;
+}
+.imp-top-head-ler-ser {
+    margin: 0 0 30px 0;
+}
+.reach-box-ler-res {
+    border-bottom: 4px solid #d6d6d3;
+    padding: 0 0px 0 0px;
+    margin: 0 0 20px 0;
+    border-right: none;
+}
+.icon-box-ler-res img {
+    position: absolute;
+    top: -80px;
+    right: 10px;
+    width: 24%;
+}
+.icon-box-ler-res-certi img {
+    position: absolute;
+    top: 21px;
+    right: 3px;
+    width: 26%;
+}
+section.banner-bottom-counter {
+    padding: 0 0 60px 0;
+}
+
+/* videoPrototypes */
+
+h3.message {
+    padding: 0;
+    line-height: 26px;
+    text-shadow: 0 0px 10px rgba(0, 0, 0, 0.5);
+}
+.reach-box-video-prototype {
+    padding: 0;
+    border-right: none;
+}
+.icon-box-video-prototype img {
+    width: auto;
+    position: absolute;
+    top: -100px;
+    right: -40px;
+}
+.nodal-center-vdplyer {
+    padding: 0;
+}
+.brd-right-bottom-vdplyer {
+    border-right: none;
+    /* height: 120px; */
+}
+.videoPrototypesSlideCust .slick-slide {
+    height: 400px;
+}
+section.leaders-talk {
+    background-color: #002449;
+    padding: 60px 0 60px 0;
+}
+.banner-bottom-color-news-update {
+    top: -40px;
+    padding: 40px 10px 70px 10px;
+}
+.gallery-box iframe {
+    width: 100%;
+    margin: 30px 0 0 0;
+}
+.new-med-top img{
+    width: 50%;
+}
+.new-med-top2 img{
+    width: 20%;
+}
+section#speech-interview .container-fluid {
+    margin: 0;
+    padding: 0;
+}
+.sih-2017-tabs-nm .tab-content>.active {
+    padding: 0 !important;
+}
+.sliderMediaandNews .slick-slide {
+    display: block;
+    margin-right: 0px;
+    background: #fff;
+    padding: 40px 0px;
+    text-align: center;
+    height: 350px;
+    margin-left: 0px;
+}
+.gallery-box-ler-res-nm{
+    width: 290px !important;
+}
+.share-box {
+    border: 1px solid #929292;
+    border-radius: 0px;
+    padding: 2px 2px;
+    position: relative;
+    right: 0;
+    display: block;
+}
+.like-box {
+    border: 1px solid #929292;
+    border-radius: 1px;
+    padding: 2px 2px;
+    position: relative;
+    right: 0;
+}
+.slider1NewsAndMedia .slick-slide {
+    display: block;
+    margin-right: 0px;
+    background: #fff;
+    padding: 40px 0px;
+    text-align: center;
+    height: 350px;
+    margin-left: 0px;
+}
+
+/* mediaSocialMedia */
+
+h3.social-media-heading {
+    padding: 0;
+    line-height: 26px;
+    margin-top: 0;
+}
+.smt-content h2 {
+    letter-spacing: 0px; 
+    font-size: 24px;
+}
+.social-media-list ul li {
+    display: inline;
+    padding: 0 25px;
+}
+.twitterslideMediaSocial .slick-slide {
+    display: block;
+    margin-right: 0px;
+    background: #fff;
+    padding: 40px 0px;
+    text-align: center;
+    height: auto;
+    margin-left: 0px;
+}
+
+/* testimonials */
+
+h3.sihTestimonial {
+    padding: 0;
+    line-height: 26px;
+    margin-top: 20px;
+}
+.testiMain {
+    box-shadow: 0 6px 12px rgba(0,0,0,.175);
+    padding: 5px 10px 0 10px;
+    border-radius: 5px;
+    margin: 0 0 30px 0;
+    background: #fff;
+}
+.testiPara {
+    padding: 10px 20px 10px 0px;
+    text-align: justify;
+}
+.leader-talk-heading h2 {
+    font-size: 28px;
+}
+
+/* Messages */
+
+.chairperson-video iframe {
+    width: 100%;
+}
+.chai-say-box-front {
+    top: 30px;
+    padding: 50px 10px 0px;
+}
+.chai-say-box-bg {
+    display: none;
+}
+.message-say-head h2 {
+    color: #fff;
+    padding: 0;
+    font-family: montserratlight;
+    font-size: 36px;
+    margin: 0 0 50px 0;
+}
+section.messages-say {
+    text-align: center;
+    background-color: #002449;
+    padding: 0px 0 50px 0;
+}
+.message-say-bg {
+    padding: 70px 10px;
+}
+.introSoftResult {
+    overflow-y: scroll;
+}
+
+/* faqs */
+
+h3.faq-heading {
+    padding: 0;
+    line-height: 26px;
+    text-shadow: 0 0px 10px rgba(0, 0, 0, 0.5);
+}
+section.faq-top-heading img {
+    width: 50%;
+    float: none;
+    display: block;
+    margin: 0 auto;
+}
+section.faq-top-heading {
+    padding: 50px 0 0;
+}
+.row.spoc-cus-bg {
+    padding: 40px 0px 40px 0px;
+}
+.card-body.custom-card-body {
+    padding: 0 20px 50px 20px;
+}
+.spoc-cus-bg {
+    padding: 40px 0 0;
+}
+.faq-spoc-right-but {
+    float: none;
+    display: block;
+    margin: 0 0 20px 0;
+}
+.team-right-but {
+    float: none;
+    display: block;
+    margin: 0 0 20px 0;
+}
+.card .card-body {
+    padding: 0 20px 50px 20px;
+}
+h3.contact-sih {
+    padding: 0;
+    line-height: 26px;
+    margin-top: 0;
+}
+.contact-box-right {
+    padding: 60px 0px 60px 0px;
+}
+.banner-bottom-count-abt-contact {
+    display: none;
+}
+.carousel.slide.mt-5.pt-5 {
+    margin-top: 0 !important;
+}
+.psBox h2 {
+    font-size: 16px;
+    padding: 20px 0 20px 0;
+}
+.psBox {
+    height: 100%;
+    background-size: cover;
+}
+section.topbannerPS {
+    padding: 30px 0 30px 0;
+	height: auto;
+}
+a.carousel-control-prev.bannerSlide {
+    top: 40px;
+}
+a.carousel-control-prev.bannerSlide i {
+    font-size: 30px;
+    padding: 0px 10px;
+}
+a.carousel-control-next.bannerSlide {
+    top: 40px;
+}
+a.carousel-control-next.bannerSlide i {
+    font-size: 30px;
+    padding: 0 10px;
+}
+.carousel.slide.mt-5.pt-4 {
+    /* padding-top: 0 !important; */
+    margin-top: 0 !important;
+}
+.col-md-4.bdr-right {
+    border-bottom: 1px solid #ffffff57;
+	border-right: none;
+    padding: 10px 0 10px 0px;
+}
+.col-md-4.topMob {
+    padding: 10px 0 0 0;
+}
+img.newGIFImg1 {
+    width: 16%;
+}
+.row.organizing-head.awsOrganizing {
+    padding: 20px 0px 20px 0px;
+}
+.topViewContent {
+    line-height: 32px;
+    margin: 0 0 10px 0;
+}
+img.preScreSIHSR {
+    height: 150px !important;
+}
+}
+@media only screen and (min-device-width: 320px ) and (max-device-width: 575px){
+	.slider-padding {
+		margin-top: 0rem;
+	}
+}
+@media only screen and (min-device-width: 768px ) and (max-device-width: 1023px){
+	.slider-padding {
+		margin-top: 7rem;
+	}
+}
+@media only screen and (min-device-width: 1024px ){
+	.slider-padding {
+		margin-top: 6.7rem;
+	}
+}
+
+@media only screen and (min-device-width: 1280px ) {
+	.slider-padding {
+		margin-top: 3.5rem;
+	}
+}
+
+@media only screen and (min-device-width: 1366px ) {
+	.slider-padding {
+		margin-top: 3.5rem;
+	}
+}
+
+@media only screen and (min-device-width: 1440px ) {
+	.slider-padding {
+		margin-top: 3.6rem;
+	}
+}
+@media only screen and (min-device-width: 1600px ) {
+	.slider-padding {
+		margin-top: 4rem;
+	}
+}
+
+@media only screen and (min-device-width: 1725px ) {
+	.slider-padding {
+		margin-top: 4.5rem;
+	}
+}
+
+@media only screen and (min-device-width: 1920px ) {
+	.slider-padding {
+		margin-top: 0rem;
+		padding-top: 0;
+	}
+}
+@media only screen and (min-device-width: 2560px ) {
+	.slider-padding {
+		margin-top: 6.5rem;
+	}
+}
+

@@ -1,0 +1,189 @@
+body {
+    align-items: center;
+    text-align: center;
+    font-family: 'Montserrat';
+    height: 100vh;
+    background-color: #ffffff;
+    opacity: 1;
+    background-image: radial-gradient(#1b4ca2 0.8500000000000001px, #c7e0e5 0.8500000000000001px);
+    background-size: 17px 17px;}
+
+
+#main-block {
+    background-color: white;
+    margin: auto;
+    max-width: 500px;
+    min-height: 215px;
+    margin-top: 85px;
+    border-radius: 30px;
+    box-shadow: 5px 5px 5px #202020a7;
+}
+
+
+#header {
+    color: #424243;
+    text-shadow: 2px 2px 7px rgba(32, 32, 32, 0.688);
+    padding-top: 18px;
+    display: inline-block;
+}
+
+
+div {
+    display: block;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+#task-block {
+    padding: 20px;
+    max-width: 450px;
+    border-radius: 10px;
+}
+
+
+#task-input, #update-task {
+    background-color: white;
+    border: 2px solid #1b4ca2;
+    width: 200px;
+    height: 20px;
+    padding: 10px;
+    border-radius: 7px;
+    box-shadow: 2px 2px 7px #20202081;
+}
+
+
+#update-task {
+    height: 10px;
+    width: 170px;
+}
+
+
+#add-btn, #delete-all-btn, #submit-task-btn, #logout-btn {
+    margin-left: 10px;
+    padding: 10px;
+    border-radius: 7px;
+    background-color: #1b4ca2;
+    border: none;
+    font-size: 13px;
+    width: 60px;
+    height: 42px;
+    cursor: pointer;
+    color: white;
+    font-weight: bold;
+    box-shadow: 2px 2px 7px #20202081;
+    font-family: 'Montserrat';
+    
+}
+
+
+#delete-all-btn {
+    width: 90px;   
+}
+
+
+#logout-btn {
+    width: 45px;
+    margin: 10px;
+    margin-right: 14px;
+    background-color: white;
+    border-radius: 100px;
+    position: relative;
+    right: 510px;
+    top: 80px;
+    box-shadow: none;
+}
+
+
+#logout-img {
+    width: 18px;
+}
+
+
+#submit-task-btn {
+    padding: 0px;
+    height: 35px;
+    font-size: 11px;
+    margin-left: 125px;
+    width: 100px;
+}
+
+
+ul {
+    list-style-type: none;
+    padding-left: 0px;
+}
+
+
+.task {
+    background-color: #c7e0e5;
+    width: 371px;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    margin-top: 20px;
+    padding: 10px 15px; 
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 7px;
+    box-shadow: 2px 2px 7px #20202081;
+    font-weight: 500;
+    display: flex;
+    justify-content: space-between;
+    text-align: left;
+    
+}
+
+
+.task-buttons {
+    display: flex;
+    gap: 0;    
+}
+
+
+.task-text {
+    flex: 1;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+
+#delete-task-btn, #update-task-btn {
+    background-color: #1b4ca2;
+    padding-top: 5px;
+    padding-bottom: 3px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    box-shadow: 2px 2px 7px #20202081;
+    float: right;
+    margin-left: 12px;
+}
+
+
+#delete-img {
+    width: 17px;
+}
+
+
+#edit-img {
+    width: 17px;
+}
+
+#line-break {
+    border: 1px solid #476dae;
+    width: 445px;
+}
+
+#logout-btn {
+    position: absolute;
+    right: 510px;
+    top: 80px;
+    box-shadow: none;
+}
+
+
+#logout-img {
+    width: 18px;
+}

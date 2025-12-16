@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Edit Task</title>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
+
+        <link rel="stylesheet" href="{{ url_for('static', filename='edit-task.css') }}">
+    </head>
+
+    <body>
+        <div id="main-block">
+            <h1 id="header">Edit Task</h1>
+            <form method="POST">
+
+                <input id="task-input" name="task" value="{{ task.Task }}" required><br>
+                <select id="status-input" name="status">
+        
+                    <option value="Not Started" {% if task.Status == 'Not Started' %}selected{% endif %}>Not Started</option>
+                    <option value="In Progress" {% if task.Status == 'In Progress' %}selected{% endif %}>In Progress</option>
+                    <option value="In Review" {% if task.Status == 'In Review' %}selected{% endif %}>In Review</option>
+                    <option value="Completed" {% if task.Status == 'Completed' %}selected{% endif %}>Completed</option>
+                    <option value="Closed" {% if task.Status == 'Closed' %}selected{% endif %}>Closed</option>
+
+                </select><br>
+
+                <input id ="completion-input" name="completion_date" type="date" value="{{ task.Completion_Date }}"><br>
+                <button id="update-task-btn" type="submit">Update</button><br>
+
+            </form><br>
+
+            <a href="{{ url_for('todo') }}"><p id="link">Back to List</p></a>
+        </div>
+    </body>
+</html>

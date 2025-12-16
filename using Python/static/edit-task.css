@@ -1,0 +1,74 @@
+body {
+    font-family: 'Montserrat';
+    background-image: radial-gradient(#1b4ca2 0.8500000000000001px, #c7e0e5 0.8500000000000001px);
+    background-size: 17px 17px;
+}
+
+
+#main-block {
+    background-color: white;
+    max-width: 500px;
+    min-height: 215px;
+    margin-top: 85px;
+    border-radius: 30px;
+    box-shadow: 5px 5px 5px #202020a7;
+}
+
+
+#header {
+    color: #424243;
+    text-shadow: 2px 2px 7px rgba(32, 32, 32, 0.688);
+    padding-top: 18px;
+    display: inline-block;
+}
+
+
+div {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+#task-input, #status-input, #completion-input{
+    background-color: white;
+    border: 2px solid #1b4ca2;
+    width: 400px;
+    height: 20px;
+    padding: 10px;
+    border-radius: 7px;
+    box-shadow: 2px 2px 7px #20202081;
+    margin: 10px;
+}
+
+
+#status-input {
+    width: 423px;
+    height: 42px;
+}
+
+
+#update-task-btn {
+    margin-left: 10px;
+    padding: 10px;
+    border-radius: 7px;
+    background-color: #1b4ca2;
+    border: none;
+    font-size: 15px;
+    width: 120px;
+    height: 42px;
+    cursor: pointer;
+    color: white;
+    font-weight: bold;
+    box-shadow: 2px 2px 7px #20202081;
+    font-family: 'Montserrat';
+    margin: 20px;    
+}
+
+
+a, #link {
+    text-decoration: none;
+    color: #476dae;
+    margin: 5px;
+    margin-bottom: 10px;
+}
