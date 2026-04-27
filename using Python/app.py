@@ -23,14 +23,14 @@ def signup():
 
         cursor = mysql.connection.cursor(DictCursor)
 
-        # 🔍 Check if username already exists
+        #Check if username already exists
         cursor.execute("SELECT * FROM Login_Info WHERE Username = %s", (username,))
         existing_user = cursor.fetchone()
 
         if existing_user:
             return render_template("sign-up-page.html", error="Username already exists. Please choose another.")
 
-        # ✅ Insert new user
+        #Insert new user
         cursor.execute("INSERT INTO Login_Info (Username, Password) VALUES (%s, %s)", (username, password))
         mysql.connection.commit()
 
