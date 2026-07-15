@@ -1,6 +1,6 @@
 # To-Do List App 📝
 
-A full-stack To-Do List web application built in two versions — a **vanilla JavaScript** frontend-only version and a **Python (Flask) + MySQL** backend version — developed as part of a Smart India Hackathon project.
+A full-stack To-Do List web application built in two versions — a **vanilla JavaScript** frontend-only version and a **Python (Flask) + MySQL** backend version.
 
 ---
 
