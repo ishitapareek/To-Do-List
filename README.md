@@ -46,7 +46,7 @@ To-Do-List-master/
 - **Add Tasks** — Create tasks with a status and (optional) completion date
 - **Edit Tasks** — Editing of task text, status, and due date
 - **Delete Tasks** — Remove individual tasks or clear all at once
-- **Task Status Tracking** — Mark tasks as Not Started, In Progress, or Completed
+- **Task Status Tracking** — Mark tasks with different statuses: Not Started, In Progress, or Completed
 - **Session Management** — Server-side sessions keep users logged in (Flask version)
 
 ---
