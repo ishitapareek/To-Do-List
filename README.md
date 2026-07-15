@@ -149,7 +149,7 @@ The repository includes supporting project documents:
 - `Flowchart.drawio` — Application flow diagram
 - `Functional Diagram.drawio` — Functional architecture
 - `Pseudocode.docx` — Logic pseudocode
-- `Report File.docx` — Full project report
+- `Report File.docx` — Project report
 
 ---
 
