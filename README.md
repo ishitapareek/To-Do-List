@@ -144,7 +144,7 @@ CREATE TABLE Tasks (
 
 ## 📄 Documentation
 
-The repo includes supporting project documents:
+The repository includes supporting project documents:
 
 - `Flowchart.drawio` — Application flow diagram
 - `Functional Diagram.drawio` — Functional architecture
