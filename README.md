@@ -156,4 +156,4 @@ The repo includes supporting project documents:
 ## ⚠️ Notes
 
 - Passwords are stored in plain text in the current implementation. For production use, hash passwords with `bcrypt` or `werkzeug.security`.
-- The `app.secret_key` in `app.py` should be replaced with a strong random key before deployment.
+- The `app.secret_key` in `app.py` should be replaced with a strong key before deployment.
