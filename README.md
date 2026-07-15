@@ -42,7 +42,7 @@ To-Do-List-master/
 ## ✨ Features
 
 - **User Authentication** — Sign up, log in, log out, and reset forgotten passwords
-- **Per-user Task Isolation** — Each user only sees their own tasks
+- **Per-user Task Isolation** — Each user can only see their own tasks
 - **Add Tasks** — Create tasks with a status and optional completion date
 - **Edit Tasks** — Inline editing of task text, status, and due date
 - **Delete Tasks** — Remove individual tasks or clear all at once
