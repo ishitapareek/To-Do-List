@@ -72,7 +72,7 @@ To-Do-List-master/
 
 ### JavaScript Version
 
-No server required — just open in a browser.
+No server required, open in a browser.
 
 1. Navigate to `using JS/sign-up-page/sign-up-page.html` to create an account
 2. Log in via `using JS/login-page/login-page.html`
