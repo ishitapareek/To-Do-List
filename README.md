@@ -1,6 +1,6 @@
 # To-Do List App 📝
 
-A full-stack To-Do List web application built in 2 versions — a **vanilla JavaScript** frontend-only version and a **Python (Flask) + MySQL** backend version.
+A full-stack To-Do List web application built in two versions — a **vanilla JavaScript** frontend-only version and a **Python (Flask) + MySQL** backend version.
 
 ---
 
